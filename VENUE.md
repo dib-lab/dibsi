@@ -16,6 +16,10 @@ large cities on the West coast, including Vancouver, Portland,
 Seattle, LA, and San Diego, can be reached within a few hours by
 flight.
 
+## Lodging information
+
+On-campus lodging is being arranged through [Conference Housing Services](http://confhsg.ucdavis.edu/hostingaconference/rates/).
+
 ## Travel to and from Davis.
 
 Davis is located about 60 miles north of the Bay Area and 20 miles west of
@@ -36,6 +40,8 @@ The Davis Airporter (@@) and Supershuttle (@@) can be used for
 transportation to and from airports, but should be reserved well in
 advance.  Ride sharing (Uber, Lyft) works well for local travel
 (to/from SMF).
+
+
 
 ## Transportation needs in Davis
 
@@ -59,8 +65,10 @@ Summers in Davis are almost uniformly sunny, dry, and *hot*, reaching
 temperatures of up to 110 deg F (38 deg C).  We recommend bringing
 water bottles, hats, and sunscreen.
 
-The workshops have no dress requirement and flip-flops and shorts are
-fine, although we do also have strong functioning airconditioning.
+The workshops have no dress requirement and informal-wear (flip-flops
+and shorts!) are fine, although we do also have strong functioning air
+conditioning in the classrooms, so you might also bring some warm
+clothes.
 
 ## Family and partners
 

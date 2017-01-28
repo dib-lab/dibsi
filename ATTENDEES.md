@@ -6,6 +6,14 @@ We operate under a code of conduct. @
 
 CoC resolution info. @
 
+## Teaching style
+
+Our core instructional teaching is hands-on, interactive, and slow
+paced with time for questions.  If you've taken a Software or Data
+Carpentry course, it's like that!  This is intentional; research shows
+that this provides for excellent learning, as well as allowing for
+many questions.
+
 ## Pace and expertise levels
 
 The core workshops are "zero entry", and assume no background in
@@ -19,6 +27,9 @@ progress.
 More advanced attendees are welcome to attend, but we ask that they
 participate fully in activities.  Attendees who regularly lapse in
 workshop tutorials may be asked to stop coming to the workshop.
+
+Software and Data Carpentry workshops are complementary to these workshops
+but largely non-overlapping in content.
 
 ## Local attendees and workshop hours
 
