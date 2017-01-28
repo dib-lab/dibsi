@@ -1,10 +1,20 @@
 # Venue information - travel to and from, local entertainment, and transportation.
 
-## Davis itself
+## Davis and Davis area.
 
 Davis is a lovely town, with a walking-friendly downtown that has lots
 of restaurants, bars, and boutiques.  The Davis Farmer's Market takes
-place on Saturday mornings and Wednesday afternoons, with a 
+place on Saturday mornings and Wednesday afternoons, with live music
+and picnicing opportunities on Wednesdays during the summer.
+
+Davis is "centrally isolated" - you can get to San Francisco, Lake
+Tahoe, a number of state and national parks (including Big Basin
+Redwood State Park and Lassen National Parks), and Napa Valley within
+2-3 hours.  Yosemite and the California coast, including Big Sur and
+Redwood National and State Parks, are 3-5 hours away.  Moreover, many
+large cities on the West coast, including Vancouver, Portland,
+Seattle, LA, and San Diego, can be reached within a few hours by
+flight.
 
 ## Travel to and from Davis.
 
@@ -43,11 +53,29 @@ During the summer there is ample on-site parking for about $7/day.
 Breakfasts, lunches and dinners will be close to the workshop rooms
 and lodging.
 
+## Weather and attire.
+
+Summers in Davis are almost uniformly sunny, dry, and *hot*, reaching
+temperatures of up to 110 deg F (38 deg C).  We recommend bringing
+water bottles, hats, and sunscreen.
+
+The workshops have no dress requirement and flip-flops and shorts are
+fine, although we do also have strong functioning airconditioning.
+
+## Family and partners
+
+Davis is very family friendly, and kids and partners are welcome at all
+social events.  California is in general LGBTQ-friendly as well.
+
+Please inquire if you want to stay on campus with a partner or your
+family.  Note that there are some hotels that have family-suitable
+suites.
+
 ## Special requirements
 
 Any special requirements (whether dietary, transportation, or family related)
 should be communicated to dibsi.training@gmail.com.  We will strive to
-be accomodating!
+accomodate your needs!
 
 ## Entertainment and exercise
 
