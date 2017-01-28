@@ -35,7 +35,7 @@ competitive with local hotels and AirBNBs.
 
 We do not currently support remote attendance.
 
-## Registration fees - what does my $$ get me?
+## Registration fees - what does my $$ pay for?
 
 In order to enable the most people to come for the lowest price, we charge
 a free for registration $@@ and workshop attendance.
