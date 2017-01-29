@@ -49,7 +49,7 @@ We do not currently support remote attendance.
 ## Registration fees - what does my $$ pay for?
 
 In order to enable the most people to come for the lowest price, we charge
-a free for registration $@@ and workshop attendance.
+a fee for registration $@@ and workshop attendance.
 
 Your registration money primarily pays for instructor and TA travel,
 room, and board, as well as lead instructor honoraria.
