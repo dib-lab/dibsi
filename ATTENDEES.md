@@ -42,7 +42,7 @@ time away from UC Davis - this means Davis, Sacramento, Woodland, and
 other local towns.  Note that the on-campus lodging should be
 competitive with local hotels and AirBNBs.
 
-## Remove attendance
+## Remote attendance
 
 We do not currently support remote attendance.
 
