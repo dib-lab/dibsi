@@ -26,7 +26,7 @@ in bioinformatics and genomics in the UC Davis School of Veterinary Medicine.
 
 Dr. Karen R. Word, postdoctoral fellow.
 
-Dr. Word received her PhD at UC Davis in avian physiology (@).
+Dr. Word received her PhD at UC Davis in environmental physiology, examining connections between energy expenditure and stress endocrinology.
 She now works with Dr. Brown on developing instructional strategies
 for "training the trainers", effective computational teaching, and
 evaluation and assessment.
