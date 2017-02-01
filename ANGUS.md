@@ -33,7 +33,7 @@ Students will gain practical experience in:
 You can read a blog post about the 2015 course here:
 [http://ivory.idyll.org/blog/2015-small-batch.html](http://ivory.idyll.org/blog/2015-small-batch.html)
 
-[Apply here!](@@) - applications will close **March 17th**.
+## [Apply here!](@@) - applications will close **March 17th**.
 
 ----
 
