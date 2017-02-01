@@ -19,6 +19,7 @@ Contents:
    SCHEDULE
    VENUE
    WHO
+   coc
 
    * Hands-on training in using the UNIX command line to analyze your sequencing data.
    

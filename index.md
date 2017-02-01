@@ -1,7 +1,5 @@
 # 2017 Data Intensive Biology Summer Institute at UC Davis
 
-## What's DIBSI?
-
 From June 18 to July 21, 2017, we'll be running several different
 computational training events at UC Davis -- a two-week workshop for
 biologists to learn basic bioinformatics and computing, a week-long
@@ -33,7 +31,7 @@ you're not local), and a $500 workshop fee, depending on the workshop.
 
 ### [Instructor training!](instructor-training.html)
 
-[Te instructor training workshop](instructor-training.html), will run
+[The instructor training workshop](instructor-training.html), will run
 from June 18 to June 25.
 
 * Hands-on training in good pedagogical practice!
@@ -61,9 +59,14 @@ travel, room and board at a minimum.)
 
 ## Other information
 
-* [General information for attendees](ATTENDEES.html)
-* [Informaton on the venue](VENUE.html)
-* [Funding information](FUNDERS.html)
-* [Who is DIBSI?](WHO.html)
+Keep up to date by [joining our mailing list](@@).
+
+[General information for attendees](ATTENDEES.html)
+
+[Informaton on the venue](VENUE.html)
+
+[Funding information](FUNDERS.html)
+
+[Who is DIBSI?](WHO.html)
 
 If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](dibsi.training@gmail.com).
