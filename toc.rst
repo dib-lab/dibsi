@@ -12,8 +12,6 @@ Contents:
    :maxdepth: 2
 
    index
-   ANGUS
-   ANGUS
    ATTENDEES
    FUNDERS
    SCHEDULE
@@ -21,6 +19,7 @@ Contents:
    WHO
    coc
    getting-involved
+   ANGUS
 
    * Hands-on training in using the UNIX command line to analyze your sequencing data.
    
