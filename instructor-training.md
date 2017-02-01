@@ -31,6 +31,10 @@ This week-long training will also serve as
 Attendees should have some strong familiarity with biology and basic
 experience with the command line.
 
-## [Apply here!](@@) - applications will close **March 17th**.
+## [Apply here!](@@)
+
+Applications will close **March 17th**.
+
+----
 
 If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](dibsi.training@gmail.com).
