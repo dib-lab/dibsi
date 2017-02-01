@@ -20,7 +20,7 @@ you're not local), and a $500 workshop fee, depending on the workshop.
 
 ## Where are the details?
 
-### Two-week zero-entry workshop for biologists!
+### Two-week zero-entry sequence analysis workshop for biologists!
 
 Please see [the ANGUS workshop](angus.html), which will run from
 June 26 to July 8th.
