@@ -13,6 +13,14 @@ Contents:
 
    index
    ANGUS
+   ANGUS
+   ATTENDEES
+   FUNDERS
+   SCHEDULE
+   VENUE
+   WHO
+
+   * Hands-on training in using the UNIX command line to analyze your sequencing data.
    
 
 Indices and tables

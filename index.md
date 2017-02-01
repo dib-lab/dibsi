@@ -18,16 +18,16 @@ grant managers may all find these workshops useful.
 The cost for each workshop should be about $500 for room & board (if
 you're not local), and a $500 workshop fee, depending on the workshop.
 
-## Where are the details?
+## Details
 
-### Two-week zero-entry sequence analysis workshop for biologists!
+### Two-week sequence analysis workshop for biologists!
 
 Please see [the ANGUS workshop](angus.html), which will run from
 June 26 to July 8th.
 
-* Summer sequencing camp - meet and talk science with great people!
-* No experience required!
 * Hands-on training in using the UNIX command line to analyze your sequencing data.
+* Zero-entry - *no experience* required!
+* Summer sequencing camp - meet and talk science with great people!
 * Now in its eighth year!
 
 ### Instructor training!
@@ -49,3 +49,6 @@ We'll announce these over the coming weeks - watch this space!
 We are looking for people who want to be involved -- see our
 [getting involved](getting-involved.html) page! (We will cover
 travel, room and board at a minimum.)
+
+### Other information
+
