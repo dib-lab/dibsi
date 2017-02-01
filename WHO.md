@@ -19,7 +19,7 @@ Dr. Phillip T. Brooks, postdoctoral fellow.
 
 Dr. Phillip T. Brooks holds a PhD from Michigan State University in Comparative 
 Medicine and Integrative Biology where he worked on interactions between the 
-microbiome and host immune system.He now conducts research in microbiome data 
+microbiome and host immune system. He now conducts research in microbiome data 
 analysis and teaching/training in bioinformatics and genomics in the UC Davis 
 School of Veterinary Medicine.
 
