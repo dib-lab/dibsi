@@ -20,6 +20,7 @@ Contents:
    VENUE
    WHO
    coc
+   getting-involved
 
    * Hands-on training in using the UNIX command line to analyze your sequencing data.
    
