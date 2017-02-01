@@ -4,7 +4,8 @@ June 26 - July 8, 2017
 
 Instructors: TBD
 
-2016 materials: http://angus.readthedocs.io/en/2016/
+[2016 materials:](http://angus.readthedocs.io/en/2016/)
+http://angus.readthedocs.io/en/2016/
 
 This intensive two week summer course will introduce attendees with a
 strong biology background to the practice of analyzing high-throughput
@@ -30,6 +31,10 @@ Students will gain practical experience in:
 - Materials from previous courses are available at http://angus.readthedocs.org/ under a Creative Commons/full use+reuse license.
 
 You can read a blog post about the 2015 course here:
-http://ivory.idyll.org/blog/2015-small-batch.html
+[http://ivory.idyll.org/blog/2015-small-batch.html](http://ivory.idyll.org/blog/2015-small-batch.html)
+
+[Apply here!](@@) - applications will close **March 17th**.
+
+----
 
 If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](dibsi.training@gmail.com).

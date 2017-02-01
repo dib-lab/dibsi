@@ -17,9 +17,9 @@ grant managers may all find these workshops useful. [Read more...](ATTENDEES.htm
 The cost for each workshop should be about $500 for room & board (if
 you're not local), and a $500 workshop fee, depending on the workshop.
 
-### [Two-week sequence analysis workshop for biologists!](angus.html)
+### [Two-week sequence analysis workshop for biologists!](ANGUS.html)
 
-[The ANGUS workshop](angus.html) will run from June 26 to July 8th.
+[The ANGUS workshop](ANGUS.html) will run from June 26 to July 8th.
 
 * Hands-on training in using the UNIX command line to analyze your sequencing data.
 * Zero-entry - **no experience** required or expected!

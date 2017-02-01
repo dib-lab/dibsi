@@ -1,8 +1,8 @@
 # Getting involved
 
-We are seeking lead instructors [ANGUS](angus.html) (June 26-July 8),
-teaching assistants for some or all of June 26-July 21, and workshop
-leaders for one-week workshops between July 10-July 21.
+We are seeking about six lead instructors for [ANGUS](ANGUS.html)
+(June 26-July 8), teaching assistants for some or all of June 26-July
+21, and workshop leaders for one-week workshops between July 10-July 21.
 
 [Indicate interest here!](@@)
 
@@ -15,17 +15,18 @@ Here is our sales pitch for your time:
 * Lead instructors and workshop leaders will receive an honorarium,
   funds and employment status permitting.
 
-* Learning by teaching!
+* You can learn by teaching!
 
-* Networking with instructors and students, and maybe finding that next
-  job (or job candidate).
+* There will be lots of networking with instructors and students, and
+  maybe you'll find that next job (or job candidate).
 
-* We can arrange a day or two off to explore Northern California
+* We can arrange a day or two off for you to explore Northern California,
+  which is (a) really pretty and (b) mostly within day-trip range
   (see [Venue](VENUE.html)).
 
 ## What experience should I have?
 
-As our workshops are "Carpentry style", we strongly prefer to recruit
+As our workshops are "Carpentry style", we will strongly prefer
 badged Software and Data Carpentry instructors for all roles.
 
 Lead instructors should have some significant genomics or bioinformatics
@@ -44,6 +45,6 @@ under an open license (generally CC-BY).
 
 We're hoping to provide digital badges acknowledging your roles!
 
-[Indicate interest here!](@@)
+## [Indicate interest here!](@@)
 
 If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](dibsi.training@gmail.com).
