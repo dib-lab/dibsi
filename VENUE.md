@@ -94,4 +94,4 @@ accomodate your needs!
 * arboretum
 * biking/running/hiking
 * bookstores
-* bars
+* bars / restaurants
