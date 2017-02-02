@@ -47,4 +47,6 @@ We're hoping to provide digital badges acknowledging your roles!
 
 ## [Indicate interest here!](@@)
 
+----
+
 If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](dibsi.training@gmail.com).

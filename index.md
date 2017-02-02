@@ -31,7 +31,7 @@ you're not local), and a $500 workshop fee, depending on the workshop.
 
 ### [Instructor training!](instructor-training.html)
 
-[The instructor training workshop](instructor-training.html), will run
+[The instructor training workshop](instructor-training.html) will run
 from June 18 to June 25.
 
 * Hands-on training in good pedagogical practice!
