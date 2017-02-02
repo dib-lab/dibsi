@@ -30,7 +30,7 @@ This week-long training will also serve as
 Attendees should have some strong familiarity with biology and basic
 experience with the command line.
 
-## [Apply here!](@@)
+## [Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSfC1MphcIhfNQzJKrbuuMBePTF0FFB_t3XJzYeWpMn1hWdxTQ/viewform)
 
 Applications will close **March 17th**.
 

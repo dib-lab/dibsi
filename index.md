@@ -38,7 +38,7 @@ from June 18 to June 25.
 * Become a certified Software/Data Carpentry instructor!
 * Learn to repurpose and remix online training materials for your own needs!
 
-[Apply here!](@@) - applications will close **March 17th**.
+[Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSfC1MphcIhfNQzJKrbuuMBePTF0FFB_t3XJzYeWpMn1hWdxTQ/viewform) - applications will close **March 17th**.
 
 ### Topic specific workshops
 
