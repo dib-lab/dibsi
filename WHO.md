@@ -42,6 +42,7 @@ School of Veterinary Medicine.
 
 Dr. Karen R. Word, postdoctoral fellow.
 
+
 Karen received her PhD at UC Davis in avian physiology.  She now
 works with Dr. Brown on developing instructional strategies for
 "training the trainers", effective computational teaching, and
