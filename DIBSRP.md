@@ -4,7 +4,7 @@ Dates: Approximately June 12th - August 4th (Exact dates TBD)
 
 Co-coordinators: Phillip T. Brooks, Alexandra Colon-Rodriguez, C. Titus Brown
 
-Questions? Please send us an [email us](dibsrp@gmail.com) dibsrp@gmail.com
+Questions? Please send us an [email](dibsrp@gmail.com) dibsrp@gmail.com
 
 # What is DIBSRP? 
 
