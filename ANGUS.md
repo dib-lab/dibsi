@@ -21,6 +21,13 @@ unknown is necessary.  2 years or more of graduate school in a
 biological science is strongly suggested. Faculty, postdocs, and
 research staff are more than welcome, as are industry employees.
 
+## What will I learn if I attend?
+
+Our goal for these two weeks is to get students to the point where
+they are ready to begin analyzing their own data on a computer
+cluster, and can work with help forums and online tutorials to
+advance their own skills.
+
 Students will gain practical experience in:
 
 - Python and bash shell scripting
@@ -33,9 +40,13 @@ Students will gain practical experience in:
 You can read a blog post about the 2015 course here:
 [http://ivory.idyll.org/blog/2015-small-batch.html](http://ivory.idyll.org/blog/2015-small-batch.html)
 
-## [Apply here!](@@)
+## [Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSchSuErTHw9aleA_peGZsXwFHiXmr2GM4OMqgFxqY03DGiL-g/viewform)
 
 Applications will close **March 17th**.
+
+The course fee will be $500 for this workshop.  If you are staying in
+campus housing, room and board is approximately $500/wk additional
+(see [venue information](VENUE.html)).
 
 ----
 

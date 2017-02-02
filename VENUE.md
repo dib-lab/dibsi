@@ -103,3 +103,7 @@ strive to accomodate your needs!
 * The [Yolo Bypass](https://www.wildlife.ca.gov/lands/places-to-visit/yolo-bypass-wa) is a good birding and ottering area; visitors may even see a wild [Jonathan Eisen](https://phylogenomics.me/) on occasion.
 
 * The City of Davis has many bookstores, bars, restaurants, and movie theaters within easy walking distance.
+
+----
+
+If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](dibsi.training@gmail.com).

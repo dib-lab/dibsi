@@ -49,13 +49,13 @@ workshops may have live streams.
 
 In order to enable the most people to come for the lowest price, we
 charge a minimal fee for registration and workshop attendance.
-(between $300-500, depending on workshop).  Your registration money
-primarily pays for instructor and TA travel, room, and board, as well
-as lead instructor honoraria.
+(between $350 and $500, depending on workshop).  Your registration
+money primarily pays for instructor and TA travel, room, and board, as
+well as lead instructor honoraria.
 
 We try to operate at cost, which means we have thin margins; we are
-supplemented by some grant money, but that by no means can cover everything.
-(See [our funders](FUNDERS.html).)
+supplemented by some grant money, but that by no means can cover
+everything.  (See [our funders](FUNDERS.html).)
 
 We have some (limited) financial aid available; please inquire at
 [dibsi.training@gmail.com](mailto:dibsi.training@gmail.com).

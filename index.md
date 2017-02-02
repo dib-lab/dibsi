@@ -27,7 +27,7 @@ you're not local), and a $500 workshop fee, depending on the workshop.
 * Summer sequencing camp - meet and talk science with great people!
 * Now in its eighth year!
 
-[Apply here!](@@) - applications will close **March 17th**.
+[Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSchSuErTHw9aleA_peGZsXwFHiXmr2GM4OMqgFxqY03DGiL-g/viewform) - applications will close **March 17th**.
 
 ### [Instructor training!](instructor-training.html)
 
@@ -49,7 +49,8 @@ Confirmed:
 
 * GWAS for veterinary animals - Tamer Mansour and Erica Scott
 
-[Sign up here!](@@) - housing registration will close **April 21st**.
+Workshops will be approximately $350/wk to attend, plus room/board if
+you are staying on campus.
 
 ### Are you interested in joining us as an instructor or a TA?
 
@@ -68,5 +69,7 @@ Keep up to date by [joining our mailing list](@@).
 [Funding information](FUNDERS.html)
 
 [Who is DIBSI?](WHO.html)
+
+----
 
 If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](dibsi.training@gmail.com).

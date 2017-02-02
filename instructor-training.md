@@ -34,6 +34,12 @@ experience with the command line.
 
 Applications will close **March 17th**.
 
+The course fee will be $350 for this workshop.  On campus housing may
+not be available for this workshop, but if it is, room and board will
+be approximately $500/wk additional (see
+[venue information](VENUE.html)).  (Alternatives will include local
+hotels and AirBNBs.)
+
 ----
 
 If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](dibsi.training@gmail.com).
