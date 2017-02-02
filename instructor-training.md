@@ -13,8 +13,7 @@ materials.  We envision this course being most useful to current
 teaching-intensive faculty, future teachers and trainers, and core
 facilities that are developing training materials.
 
-Attendees will learn about and gain practice implementing evidence-based     
-teaching practices.  Common pitfalls specific to novice-level
+Attendees will learn about and gain practice implementing evidence-based teaching practices.  Common pitfalls specific to novice-level
 instruction and bioinformatics in particular will be discussed, along
 with associated troubleshooting strategies. Content used in prior
 [ANGUS](ANGUS.html) workshops will be used for all practice
