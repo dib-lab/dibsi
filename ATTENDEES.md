@@ -2,9 +2,7 @@
 
 ## Code of conduct
 
-We operate under a code of conduct. @
-
-CoC resolution info. @
+We operate under a [code of conduct](coc.html).
 
 ## Teaching style
 
@@ -44,22 +42,25 @@ competitive with local hotels and AirBNBs.
 
 ## Remote attendance
 
-We do not currently support remote attendance.
+We do not currently support remote attendance, although some talks and
+workshops may have live streams.
 
 ## Registration fees - what does my $$ pay for?
 
-In order to enable the most people to come for the lowest price, we charge
-a fee for registration $@@ and workshop attendance.
-
-Your registration money primarily pays for instructor and TA travel,
-room, and board, as well as lead instructor honoraria.
+In order to enable the most people to come for the lowest price, we
+charge a minimal fee for registration and workshop attendance.
+(between $350 and $500, depending on workshop).  Your registration
+money primarily pays for instructor and TA travel, room, and board, as
+well as lead instructor honoraria.
 
 We try to operate at cost, which means we have thin margins; we are
-supplemented by some grant money, but that by no means can cover everything.
-(See FUNDERS.)
+supplemented by some grant money, but that by no means can cover
+everything.  (See [our funders](FUNDERS.html).)
 
 We have some (limited) financial aid available; please inquire at
-dibsi.training@gmail.com.
+[dibsi.training@gmail.com](mailto:dibsi.training@gmail.com).
 
 There are various deadlines associated with registration and housing;
-once past the deadline, fees already paid cannot be refunded.
+once past the deadline, fees already paid cannot be refunded.  We will
+indicate these deadlines below as well as on the registration page and
+in e-mails.
