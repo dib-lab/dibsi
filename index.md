@@ -70,6 +70,14 @@ Keep up to date by [joining our mailing list](@@).
 
 [Who is DIBSI?](WHO.html)
 
+### Are you an undergraduate interested in a summer research experience? 
+
+We are launching a summer research program for students from groups 
+historically underrepresented in biology. Summer interns will particpate 
+in DRBSRI and an 8-10 week mentored research project in data biology (i.e. metagenomics, 
+transcriptomics, etc.). More info [here](DIBSRP.html) and if you have questions 
+send us an e-mail at [dibsrp@gmail.com](dibsrp@gmail.com). 
+
 ----
 
 If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](dibsi.training@gmail.com).
