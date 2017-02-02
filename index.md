@@ -45,6 +45,8 @@ from June 18 to June 25.
 From July 10 to July 21, we are planning a number of topic specific workshops.
 We'll announce these over the coming weeks - watch this space!
 
+[List of prospective workshop ideas](workshop-ideas.html)
+
 Confirmed:
 
 * GWAS for veterinary animals - Tamer Mansour and Erica Scott

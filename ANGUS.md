@@ -21,6 +21,8 @@ unknown is necessary.  2 years or more of graduate school in a
 biological science is strongly suggested. Faculty, postdocs, and
 research staff are more than welcome, as are industry employees.
 
+A [draft schedule of hours for this year](SCHEDULE.html) is available.
+
 ## What will I learn if I attend?
 
 Our goal for these two weeks is to get students to the point where

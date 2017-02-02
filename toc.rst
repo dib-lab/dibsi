@@ -11,15 +11,18 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   coc
    index
+   ANGUS
+   instructor-training
+   workshop-ideas
+   DIBSRP
+   getting-involved
+   WHO
+   VENUE
    ATTENDEES
    FUNDERS
    SCHEDULE
-   VENUE
-   WHO
-   coc
-   getting-involved
-   ANGUS
 
    * Hands-on training in using the UNIX command line to analyze your sequencing data.
    

@@ -1,3 +1,10 @@
+# Workshops that might happen at DIBSI 2017
+
+From July 10-July 21, we are planning to run a variety of workshops at
+the
+[Data Intensive Biology Summer Institute](http://ivory.idyll.org/dibsi/).
+Below are some of our plans.
+
 ## Confirmed / highly likely
 
 ### GWAS on veterinary genomes (Tamer and Erica)
