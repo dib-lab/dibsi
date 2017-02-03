@@ -3,8 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to DIBSI's documentation!
-=================================
+Welcome to DIBSI 2017!
+======================
+
+This is a list of all the pages.
+
+But you should start at `the site index <index.html>`__!
 
 Contents:
 
