@@ -12,7 +12,7 @@ Below are some of our plans.
 A hands-on tutorial for doing Genome Wide Association Studies using 
 Illumina sequence.
 
-### Shotgun -omics / bring your own data (Harriet)
+### Shotgun environmental -omics / bring your own data (Harriet)
 
 A hands-on tutorial for working with shotgun meta-omic data from the
 environment.  Will contain room for working with data brought by
@@ -46,7 +46,7 @@ Will contain room for working with data brought by attendees.
 
 ## Seeking leader and/or attendee interest.
 
-### How to develop and release open source software
+### Developing and release open source scientific software / hackfest
 
 A gathering of scientists who want to work on improving their software
 development processes, documentation, or release process. In
