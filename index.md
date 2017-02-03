@@ -64,7 +64,7 @@ travel, room and board at a minimum.)
 
 ## Other information
 
-Keep up to date by [joining our mailing list](@@).
+Keep up to date by [joining our mailing list](http://lists.idyll.org/listinfo/dibsi-2017-interest).
 
 [General information for attendees](ATTENDEES.html)
 
