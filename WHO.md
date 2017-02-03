@@ -48,6 +48,11 @@ works with Dr. Brown on developing instructional strategies for
 "training the trainers", effective computational teaching, and
 evaluation and assessment.
 
+## Photo credits
+
+The photos on this site are Copyright (C) 2016 Jonathan Eisen, and reproduced
+with his permission under a CC-BY license.
+
 ----
 
-If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](dibsi.training@gmail.com).
+If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](mailto:dibsi.training@gmail.com).

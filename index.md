@@ -1,10 +1,12 @@
+![Yolo Basin panorama](images/yolo-panorama.jpg "DIBSI 2017")
+
 # 2017 Data Intensive Biology Summer Institute at UC Davis
 
 From June 18 to July 21, 2017, we'll be running several different
-computational training events at UC Davis -- a two-week workshop for
-biologists to learn basic bioinformatics and computing, a week-long
-instructor training in how to reuse our materials, and several other
-focused workshops.
+computational training events at the University of California, Davis
+-- a two-week workshop for biologists to learn basic bioinformatics
+and computing, a week-long instructor training in how to reuse our
+materials, and several other focused workshops.
 
 All of this will be taking place at the UC Davis School of Veterinary
 Medicine, on the main campus of UC Davis (in Davis,
@@ -68,7 +70,7 @@ Keep up to date by [joining our mailing list](http://lists.idyll.org/listinfo/di
 
 [General information for attendees](ATTENDEES.html)
 
-[Informaton on the venue](VENUE.html)
+[Information on the venue](VENUE.html)
 
 [Funding information](FUNDERS.html)
 
@@ -79,9 +81,9 @@ Keep up to date by [joining our mailing list](http://lists.idyll.org/listinfo/di
 We are launching a summer research program for students from groups 
 historically underrepresented in biology. Summer interns will particpate 
 in DRBSRI and an 8-10 week mentored research project in data biology (i.e. metagenomics, 
-transcriptomics, etc.). More info [here](DIBSRP.html) and if you have questions 
-send us an e-mail at [dibsrp@gmail.com](dibsrp@gmail.com). 
+transcriptomics, etc.). More info [here](DIBSRP.html); if you have questions 
+send us an e-mail at [dibsrp@gmail.com](mailto:dibsrp@gmail.com). 
 
 ----
 
-If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](dibsi.training@gmail.com).
+If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](mailto:dibsi.training@gmail.com).

@@ -1,9 +1,12 @@
 # Workshops that might happen at DIBSI 2017
+<img style="float: right; max-width=10%; border-radius: 2px; padding: 2px; border: 1px solid #ddd" src="_static/bird-standing.jpg" width=100>
 
 From July 10-July 21, we are planning to run a variety of workshops at
 the
 [Data Intensive Biology Summer Institute](http://ivory.idyll.org/dibsi/).
-Below are some of our plans.
+
+Below are our plans.
+[Please let us know if you are interested!](https://docs.google.com/forms/d/e/1FAIpQLSfcLYvOvg_v-ALK4Rgt6eyrWcPpFYVMhmiiwFdJAaMYPnbI4w/viewform)
 
 ## Confirmed / highly likely
 

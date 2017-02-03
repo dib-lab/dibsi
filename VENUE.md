@@ -106,4 +106,4 @@ strive to accomodate your needs!
 
 ----
 
-If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](dibsi.training@gmail.com).
+If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](mailto:dibsi.training@gmail.com).

@@ -1,3 +1,4 @@
+<img style="float: right; max-width=10%; border-radius: 2px; padding: 2px; border: 1px solid #ddd" src="_static/bird-kite.jpg" width=100>
 # ANGUS: Analyzing High Throughput Sequencing Data
 
 June 26 - July 8, 2017
@@ -16,7 +17,7 @@ transcriptome assembly, transcript quantitation, variant calling, and
 other topics.
 
 No prior programming experience is required, although familiarity with
-some programming concepts is helpful, and bravery in the face of the
+some programming concepts will be helpful, and bravery in the face of the
 unknown is necessary.  2 years or more of graduate school in a
 biological science is strongly suggested. Faculty, postdocs, and
 research staff are more than welcome, as are industry employees.
@@ -52,4 +53,4 @@ campus housing, room and board is approximately $500/wk additional
 
 ----
 
-If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](dibsi.training@gmail.com).
+If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](mailto:dibsi.training@gmail.com).

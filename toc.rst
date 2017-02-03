@@ -11,8 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   coc
    index
+   coc
    ANGUS
    instructor-training
    workshop-ideas
@@ -23,9 +23,6 @@ Contents:
    ATTENDEES
    FUNDERS
    SCHEDULE
-
-   * Hands-on training in using the UNIX command line to analyze your sequencing data.
-   
 
 Indices and tables
 ==================
