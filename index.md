@@ -58,6 +58,14 @@ Confirmed:
 Workshops will be approximately $350/wk to attend, plus room/board if
 you are staying on campus.
 
+### Are you an undergraduate interested in a summer research experience? 
+
+We are launching a summer research program for students from groups 
+historically underrepresented in biology. Summer interns will particpate 
+in DRBSRI and an 8-10 week mentored research project in data biology (i.e. metagenomics, 
+transcriptomics, etc.). More info [here](DIBSRP.html); if you have questions 
+send us an e-mail at [dibsrp@gmail.com](mailto:dibsrp@gmail.com). 
+
 ### Are you interested in joining us as an instructor or a TA?
 
 We are looking for people who want to be involved -- see our
@@ -77,14 +85,6 @@ Keep up to date by [joining our mailing list](http://lists.idyll.org/listinfo/di
 [Who is DIBSI?](WHO.html)
 
 [The two-week summer workshop materials from 2016](angus.readthedocs.io/en/2016/)
-
-### Are you an undergraduate interested in a summer research experience? 
-
-We are launching a summer research program for students from groups 
-historically underrepresented in biology. Summer interns will particpate 
-in DRBSRI and an 8-10 week mentored research project in data biology (i.e. metagenomics, 
-transcriptomics, etc.). More info [here](DIBSRP.html); if you have questions 
-send us an e-mail at [dibsrp@gmail.com](mailto:dibsrp@gmail.com). 
 
 ----
 
