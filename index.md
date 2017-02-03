@@ -14,7 +14,10 @@ CA). [Read more...](VENUE.html)
 
 Everyone is welcome, from everywhere! Grad students, postdocs,
 faculty, staff, industry, non-profits, teachers, journalists, and
-grant managers may all find these workshops useful. [Read more...](ATTENDEES.html)
+grant managers may all find these workshops useful. **We welcome
+applications from international students and regard the current
+policies of the United States with frustration and dismay.**
+[Read more...](ATTENDEES.html)
 
 The cost for each workshop should be about $500 for room & board (if
 you're not local), and a $500 workshop fee, depending on the workshop.
