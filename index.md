@@ -47,6 +47,8 @@ We'll announce these over the coming weeks - watch this space!
 
 [List of prospective workshop ideas](workshop-ideas.html)
 
+[We welcome input on what workshops to run!](https://docs.google.com/forms/d/e/1FAIpQLSfcLYvOvg_v-ALK4Rgt6eyrWcPpFYVMhmiiwFdJAaMYPnbI4w/viewform)
+
 Confirmed:
 
 * GWAS for veterinary animals - Tamer Mansour and Erica Scott
