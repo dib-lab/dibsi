@@ -4,7 +4,7 @@ We are seeking about six lead instructors for [ANGUS](ANGUS.html)
 (June 26-July 8), teaching assistants for some or all of June 26-July
 21, and workshop leaders for one-week workshops between July 10-July 21.
 
-[Indicate interest here!](@@)
+[Indicate interest here!](https://docs.google.com/forms/d/e/1FAIpQLSeTznTCcD4Ta9NrdI66HhNM8OeNPTrrulGnvDqqQPAcb-MflA/viewform)
 
 ## What's in it for me?
 
@@ -45,7 +45,7 @@ under an open license (generally CC-BY).
 
 We're hoping to provide digital badges acknowledging your roles!
 
-## [Indicate interest here!](@@)
+## [Indicate interest here!](https://docs.google.com/forms/d/e/1FAIpQLSeTznTCcD4Ta9NrdI66HhNM8OeNPTrrulGnvDqqQPAcb-MflA/viewform)
 
 ----
 
