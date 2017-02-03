@@ -22,6 +22,8 @@ unknown is necessary.  2 years or more of graduate school in a
 biological science is strongly suggested. Faculty, postdocs, and
 research staff are more than welcome, as are industry employees.
 
+Note that this year we have much more room for attendees!
+
 A [draft schedule of hours for this year](SCHEDULE.html) is available.
 
 ## What will I learn if I attend?
@@ -50,6 +52,19 @@ Applications will close **March 17th**.
 The course fee will be $500 for this workshop.  If you are staying in
 campus housing, room and board is approximately $500/wk additional
 (see [venue information](VENUE.html)).
+
+## History
+
+This workshop was run at Michigan State University's Kellogg
+Biological Station from 2010 and 2016, with support from the USDA and
+NIH (see [Funders](FUNDERS.html)).  Dr. Brown is the founding course
+director and ran the workshop from 2010-2015; Dr. Staton (UTK) and
+Dr. MacManes (UNH) were the 2016 course directors.
+
+There are now almost 200 alumni of the first 7 years!
+
+With Dr. Brown's move to UC Davis, the workshop has expanded to serve
+more learners, and to include more activities.
 
 ----
 

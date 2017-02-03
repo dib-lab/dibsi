@@ -23,8 +23,8 @@ you're not local), and a $500 workshop fee, depending on the workshop.
 
 [The ANGUS workshop](ANGUS.html) will run from June 26 to July 8th.
 
-* Hands-on training in using the UNIX command line to analyze your sequencing data.
 * Zero-entry - **no experience** required or expected!
+* Hands-on training in using the UNIX command line to analyze your sequencing data.
 * Friendly, helpful instructors and TAs!
 * Summer sequencing camp - meet and talk science with great people!
 * Now in its eighth year!
@@ -75,6 +75,8 @@ Keep up to date by [joining our mailing list](http://lists.idyll.org/listinfo/di
 [Funding information](FUNDERS.html)
 
 [Who is DIBSI?](WHO.html)
+
+[The two-week summer workshop materials from 2016](angus.readthedocs.io/en/2016/)
 
 ### Are you an undergraduate interested in a summer research experience? 
 
