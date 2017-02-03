@@ -5,8 +5,7 @@ June 26 - July 8, 2017
 
 Instructors: TBD
 
-[2016 materials:](http://angus.readthedocs.io/en/2016/)
-http://angus.readthedocs.io/en/2016/
+[2016 materials: http://angus.readthedocs.io/en/2016/](http://angus.readthedocs.io/en/2016/)
 
 This intensive two week summer course will introduce attendees with a
 strong biology background to the practice of analyzing high-throughput
