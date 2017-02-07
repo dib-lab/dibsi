@@ -3,8 +3,6 @@
 
 June 26 - July 8, 2017
 
-Instructors: TBD
-
 [2016 materials: http://angus.readthedocs.io/en/2016/](http://angus.readthedocs.io/en/2016/)
 
 This intensive two week summer course will introduce attendees with a
@@ -19,7 +17,7 @@ No prior programming experience is required, although familiarity with
 some programming concepts will be helpful, and bravery in the face of the
 unknown is necessary.  2 years or more of graduate school in a
 biological science is strongly suggested. Faculty, postdocs, and
-research staff are more than welcome, as are industry employees.
+research staff are more than welcome, as are researchers from industry.
 
 Note that this year we have much more room for attendees!
 
@@ -39,7 +37,8 @@ Students will gain practical experience in:
 - Basic software installation on UNIX
 - Installing and running Trinity, BWA, Salmon, SPAdes, ABySS, Prokka and other bioinformatics tools.
 - Querying mappings and evaluating assemblies
-- Materials from previous courses are available at http://angus.readthedocs.org/ under a Creative Commons/full use+reuse license.
+- Materials from previous courses are available at
+  [http://angus.readthedocs.org/](http://angus.readthedocs.org/) under a Creative Commons/full use+reuse license.
 
 You can read a blog post about the 2015 course here:
 [http://ivory.idyll.org/blog/2015-small-batch.html](http://ivory.idyll.org/blog/2015-small-batch.html)

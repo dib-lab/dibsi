@@ -19,8 +19,8 @@ applications from international students and regard the current
 policies of the United States with frustration and dismay.**
 [Read more...](ATTENDEES.html)
 
-The cost for each workshop should be about $500 for room & board (if
-you're not local), and a $500 workshop fee, depending on the workshop.
+Each workshop costs between $350 and $500, and room & board will be
+about $500/week for non-local attendees.
 
 ### [Two-week sequence analysis workshop for biologists!](ANGUS.html)
 
@@ -71,9 +71,9 @@ send us an e-mail at [dibsrp@gmail.com](mailto:dibsrp@gmail.com).
 
 ### Are you interested in joining us as an instructor or a TA?
 
-We are looking for people who want to be involved -- see our
-[getting involved](getting-involved.html) page! (We will cover
-travel, room and board at a minimum.)
+We are looking for people to join us - see our
+[getting involved](getting-involved.html) page! (We will cover travel,
+room and board.)
 
 ## Other information
 

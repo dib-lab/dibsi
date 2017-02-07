@@ -29,8 +29,8 @@ experience in preparing and teaching a lesson.
 This week-long training will also serve as
 [Software/Data Carpentry Instructor Training](https://swcarpentry.github.io/instructor-training/).
 
-Attendees should have some strong familiarity with biology and basic
-experience with the command line.
+Attendees should have significant familiarity with molecular biology
+and basic experience with the command line.
 
 ## [Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSfC1MphcIhfNQzJKrbuuMBePTF0FFB_t3XJzYeWpMn1hWdxTQ/viewform)
 
