@@ -15,7 +15,7 @@ other topics.
 
 No prior programming experience is required, although familiarity with
 some programming concepts will be helpful, and bravery in the face of the
-unknown is necessary.  2 years or more of graduate school in a
+unknown is necessary.  A year or more of graduate school in a
 biological science is strongly suggested. Faculty, postdocs, and
 research staff are more than welcome, as are researchers from industry.
 
