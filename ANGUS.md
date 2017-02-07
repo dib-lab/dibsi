@@ -23,6 +23,8 @@ Note that this year we have much more room for attendees!
 
 A [draft schedule of hours for this year](SCHEDULE.html) is available.
 
+We plan to run multiple workshops of 20-30 participants each.
+
 ## What will I learn if I attend?
 
 Our goal for these two weeks is to get students to the point where
@@ -43,7 +45,7 @@ Students will gain practical experience in:
 You can read a blog post about the 2015 course here:
 [http://ivory.idyll.org/blog/2015-small-batch.html](http://ivory.idyll.org/blog/2015-small-batch.html)
 
-## [Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSchSuErTHw9aleA_peGZsXwFHiXmr2GM4OMqgFxqY03DGiL-g/viewform)
+#### [Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSchSuErTHw9aleA_peGZsXwFHiXmr2GM4OMqgFxqY03DGiL-g/viewform)
 
 Applications will close **March 17th**.
 

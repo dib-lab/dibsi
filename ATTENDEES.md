@@ -38,7 +38,7 @@ been networking and informal interactions.
 We strongly recommend that people stay no more than 30 minutes travel
 time away from UC Davis - this means Davis, Sacramento, Woodland, and
 other local towns.  Note that the on-campus lodging should be
-competitive with local hotels and AirBNBs.
+competitive with local hotels and Airbnbs.
 
 ## Remote attendance
 

@@ -40,7 +40,7 @@ The course fee will be $350 for this workshop.  On campus housing may
 not be available for this workshop, but if it is, room and board will
 be approximately $500/wk additional (see
 [venue information](VENUE.html)).  (Alternatives will include local
-hotels and AirBNBs.)
+hotels and Airbnb.)
 
 ----
 
