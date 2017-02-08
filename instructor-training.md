@@ -32,6 +32,8 @@ This week-long training will also serve as
 Attendees should have significant familiarity with molecular biology
 and basic experience with the command line.
 
+We anticipate a class size of approximately 25, with 3-6 instructors.
+
 ## [Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSfC1MphcIhfNQzJKrbuuMBePTF0FFB_t3XJzYeWpMn1hWdxTQ/viewform)
 
 Applications will close **March 17th**.
