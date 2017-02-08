@@ -10,7 +10,7 @@ This workshop is intended for people interested in teaching, reusing
 and repurposing the
 [Software Carpentry](https://software-carpentry.org/lessons/),
 [Data Carpentry](http://www.datacarpentry.org/lessons/), or
-[Analyzing Next-Generation Sequencing Data](https://angus.readthedocs.io/en/2016/)
+[Analyzing High Throughput Sequencing Data](https://angus.readthedocs.io/en/2016/)
 materials.  We envision this course being most useful to current
 teaching-intensive faculty, future teachers and trainers, and core
 facilities that are developing training materials.
