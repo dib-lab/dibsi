@@ -5,7 +5,7 @@
 From June 18 to July 21, 2017, we'll be running several different
 computational training events at the University of California, Davis
 -- a two-week workshop for biologists to learn basic bioinformatics
-and computing, a week-long instructor training in how to reuse our
+and high performance computing, a week-long instructor training in how to reuse our
 materials, and several other focused workshops.
 
 All of this will be taking place at the UC Davis School of Veterinary
