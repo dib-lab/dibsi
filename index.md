@@ -65,7 +65,7 @@ you are staying on campus.
 
 We are launching a summer research program for students from groups 
 historically underrepresented in biology. Summer interns will particpate 
-in DRBSRI and an 8-10 week mentored research project in data biology (i.e. metagenomics, 
+in DIBSRI and an 8-10 week mentored research project in data biology (i.e. metagenomics, 
 transcriptomics, etc.). More info [here](DIBSRP.html); if you have questions 
 send us an e-mail at [dibsrp@gmail.com](mailto:dibsrp@gmail.com). 
 
