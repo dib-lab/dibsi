@@ -4,7 +4,7 @@
 
 June 18-June 25, 2017.
 
-Instructors: Lex Nederbragt (tentative), Karen Word, and C. Titus Brown
+Instructors: Lex Nederbragt, Karen Word, and C. Titus Brown
 
 This workshop is intended for people interested in teaching, reusing
 and repurposing the
