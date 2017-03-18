@@ -6,6 +6,8 @@ Co-coordinators: Phillip T. Brooks, Alexandra Colon-Rodriguez, C. Titus Brown
 
 Questions? Please send us an email at [dibsrp@gmail.com](mailto:dibsrp@gmail.com)
 
+## Interested? [Apply here](https://registration.genomecenter.ucdavis.edu/events/DIBSRP_application/)
+
 ## What is DIBSRP? 
 
 The Lab for Data Intensive Biology at the University of California Davis is excited to announce its inaugural summer research program for undergraduates. Participants will train in leading edge methods for the analysis of biological sequencing data. These skills are highly sought after in careers in industry, government, and academia. During their participation in our 8 to 10-week residential program at UC Davis interns will:
