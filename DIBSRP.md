@@ -6,7 +6,7 @@ Co-coordinators: Phillip T. Brooks, Alexandra Colon-Rodriguez, C. Titus Brown
 
 Questions? Please send us an email at [dibsrp@gmail.com](mailto:dibsrp@gmail.com)
 
-## Interested? [Apply here](https://registration.genomecenter.ucdavis.edu/events/DIBSRP_application/)
+## Are you Interested? [Apply here](https://registration.genomecenter.ucdavis.edu/events/DIBSRP_application/)
 
 ## What is DIBSRP? 
 
