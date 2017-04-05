@@ -42,6 +42,25 @@ transportation to and from airports, but should be reserved well in
 advance.  Ride sharing (e.g. [Lyft](https://www.lyft.com/)) works well
 for local travel (to/from SMF).
 
+### Visa information for international travelers.
+
+One attendee received the following information from their local US
+consulate:
+
+  You may apply for and request [ESTA](https://esta.cbp.dhs.gov/esta/)
+  authorization under the Visa Waiver Program, which allows you to
+  stay in the U.S. for 90 days or less.  You may not exceed 90 days.
+  If you plan to stay for longer than 90 days, you must apply for and
+  obtain a visa beforehand.
+
+Upon request to
+[dibsi.training@gmail.com](mailto:dibsi.training@gmail.com) we can
+provide invitation letters for people coming from outside the country.
+
+Note that we will provide full tuition and housing refunds to those
+who are unable to enter the country due to visa issues, irrespective
+of the official deadlines.
+
 ## Transportation needs in Davis
 
 A car is typically not needed in Davis, as the weather is almost
