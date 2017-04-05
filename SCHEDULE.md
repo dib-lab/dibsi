@@ -56,7 +56,10 @@ Monday
 * 5:30-7:30 - dinner
 * 7:30pm-9pm - lab/lecture/instruction
 
-Tuesday - July 4th - free day.
+Tuesday - July 4th
+
+* 9am-noon - lab/lecture/instruction
+* noon - end of day; Davis Community Park fireworks booths & show at dusk.
 
 Wednesday:
 * 9am-noon - lab/lecture/instruction
@@ -84,7 +87,6 @@ Friday:
 Saturday - 
 
 * 9am-noon - lab/lecture/instruction
-* noon-1:15 - lunch
-* 1:15-4pm - lab/lecture/instruction
-* 4pm - end of day
+* noon - end of day
+
 
