@@ -133,7 +133,7 @@ to meet the needs of the attendees.
 
 Dates: July 10-15
 
-Instructors: [Chris Hamm](mailto:topher.hamm@gmail.com)
+Instructors: [Chris Hamm](mailto:cahamm@ucdavis.edu)
 
 This workshop will be a hybrid between a two-day Software Carpentry
 style workshop followed by a hack-a-thon. In this workshop
