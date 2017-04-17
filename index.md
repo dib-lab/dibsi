@@ -19,8 +19,10 @@ applications from international students and regard the current
 policies of the United States with frustration and dismay.**
 [Read more...](ATTENDEES.html)
 
-Each workshop costs between $350 and $500, and room & board will be
-about $500/week for non-local attendees.
+Each workshop costs between $350 and $500, and on-campus room & board will be
+approximately $400/week for non-local attendees.
+
+![DIBSI overview](images/overview-bubbles.png)
 
 ### [Two-week sequence analysis workshop for biologists!](ANGUS.html)
 
@@ -37,7 +39,7 @@ about $500/week for non-local attendees.
 **If you applied for ANGUS, we sent you registration information on
 Monday, April 17th.  Please contact
 [dibsi.training@gmail.com](mailto:dibsi.training@gmail.com) if you
-didn't receive them.**
+didn't receive it.**
 
 ### [Instructor training!](instructor-training.html)
 
@@ -53,7 +55,7 @@ from June 18 to June 25.
 **If you applied for instructor training, we sent you registration
 information on Monday, April 17th. Please contact
 [dibsi.training@gmail.com](mailto:dibsi.training@gmail.com) if you
-didn't receive them.**
+didn't receive it.**
 
 ### [Topic specific workshops](workshops.html)
 
