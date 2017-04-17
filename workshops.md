@@ -144,7 +144,7 @@ group working sessions where participants will employ the skills just
 acquired towards their own research projects.
 
 Target audience: everyone is welcome: grad students, post-docs,
-faculty, everyone. Idealy, particpants will have a working knowledge
+faculty, everyone. Ideally, participants will have a working knowledge
 of R and a research project with some analyses ready to go.
 
 At the conclusion of this workshop, participants will be able to:
@@ -323,6 +323,12 @@ end of the week, you'll be able to input, organize, and summarize data
 in R. You'll also learn how to visualize and present data using
 publication-quality plots and dynamic documents that combine
 descriptive writing with the results of your code.
+
+The course will focus on laying a groundwork of basic R skills to
+enable future self-teaching of specific use cases. However, enrollees
+are encouraged to reach out to the instructor if there are particular
+topics that they think would be especially valuable to cover, and
+we'll try to work them into the curriculum.
 
 #### [Workshop registration](https://registration.genomecenter.ucdavis.edu/events/DIBSI_R_workshop/)
 
