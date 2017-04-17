@@ -155,7 +155,7 @@ At the conclusion of this workshop, participants will be able to:
 * Explain importance of version control
 * Apply version control to research project using RStudio
 * Explain the importance of consistent file names and proper dates.
-* Describe a directory organization and work flow that lends itself to reproduc* ible research.
+* Describe a directory organization and work flow that lends itself to reproducible research.
 * Explain why documenting and commenting is important for reproducible research.
 * Demonstrate use of knitr and Rmarkdown to integrate code and text.
 * Describe what automation is.
