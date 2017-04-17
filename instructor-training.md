@@ -2,7 +2,7 @@
 
 # Instructor training
 
-June 18-June 25, 2017.
+June 19-June 23, 2017.
 
 Instructors: Lex Nederbragt, Karen Word, and C. Titus Brown
 

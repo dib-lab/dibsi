@@ -15,7 +15,8 @@ Workshops may extend into the evening hours; please plan on devoting the
 entire time to the workshop.  Workshops are $350/wk.
 
 On-campus housing information is available for approximately $400/wk,
-which includes breakfast and dinner.
+which includes breakfast and dinner.  Housing registration currently
+closes April 26th.
 
 Registration links for each workshop are under the workshop
 description; housing is linked there as well, and must be booked

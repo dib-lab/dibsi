@@ -2,7 +2,7 @@
 
 # 2017 Data Intensive Biology Summer Institute at UC Davis
 
-From June 18 to July 21, 2017, we'll be running several different
+From June 19 to July 21, 2017, we'll be running several different
 computational training events at the University of California, Davis
 -- a two-week workshop for biologists to learn basic bioinformatics
 and high performance computing, a week-long instructor training in how to reuse our
@@ -44,7 +44,7 @@ didn't receive it.**
 ### [Instructor training!](instructor-training.html)
 
 [The instructor training workshop](instructor-training.html) will run
-from June 18 to June 25.
+from June 19 to June 23.
 
 * Hands-on training in good pedagogical practice!
 * Become a certified Software/Data Carpentry instructor!
