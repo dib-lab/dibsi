@@ -216,7 +216,7 @@ the workshop will focus on experimental design and hands-on data
 analysis using the Insertion Sequencing (INSeq) technology described
 by
 [Goodman et al (Cell Host & Microbe, 2009](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19748469/);
-[Nature Protocols, 2011](http://www.nature.com/nprot/journal/v6/n12/abs/nprot.2011.417.html). We
+[Nature Protocols, 2011](http://www.nature.com/nprot/journal/v6/n12/abs/nprot.2011.417.html)). We
 will briefly discuss other variations in mutant library generation and
 in data analysis workflows.
 
