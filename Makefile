@@ -6,6 +6,9 @@ all: html
 update: clean html
 	rsync -av _build/html/ t@vallista.idyll.org:ivory/dibsi/
 
+trial: clean html
+    rsync -av _build/html/ t@teckla.idyll.org:.html/dibsi-reg/
+
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build

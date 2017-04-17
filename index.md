@@ -55,7 +55,7 @@ information on Monday, April 17th. Please contact
 [dibsi.training@gmail.com](mailto:dibsi.training@gmail.com) if you
 didn't receive them.**
 
-### Topic specific workshops
+### [Topic specific workshops](workshops.html)
 
 We are running nine topic-specific workshops this summer!  Visit
 [the workshops page](workshops.html) for details or click on the
