@@ -1,5 +1,12 @@
 # Venue information - travel to and from, local entertainment, and transportation.
 
+## Where DIBSI will happen
+
+The venue for the Summer Institute is the
+[Valley Hall](http://www.vetmed.ucdavis.edu/Academic_Programs/map/ValleyHall/)
+teaching facility, located on the Health Sciences side of UC Davis
+main campus, in Davis, CA.  ([Google maps link](https://www.google.com/maps/place/Gladys+Valley+Hall,+Davis,+CA+95616/@38.5328167,-121.7659017,17z/data=!3m1!4b1!4m5!3m4!1s0x80852902c9d969a7:0xaa647225d10f76a3!8m2!3d38.5328167!4d-121.7637077))
+
 ## Davis and Davis area.
 
 Davis is a lovely town, with a walking-friendly downtown that has lots

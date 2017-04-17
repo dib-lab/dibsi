@@ -32,7 +32,12 @@ about $500/week for non-local attendees.
 * Summer sequencing camp - meet and talk science with great people!
 * Now in its eighth year!
 
-[Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSchSuErTHw9aleA_peGZsXwFHiXmr2GM4OMqgFxqY03DGiL-g/viewform) - applications will close **March 17th**.
+<!-- [Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSchSuErTHw9aleA_peGZsXwFHiXmr2GM4OMqgFxqY03DGiL-g/viewform) - applications will close **March 17th**. -->
+
+**If you applied for ANGUS, we sent you registration information on
+Monday, April 17th.  Please contact
+[dibsi.training@gmail.com](mailto:dibsi.training@gmail.com) if you
+didn't receive them.**
 
 ### [Instructor training!](instructor-training.html)
 
@@ -43,23 +48,38 @@ from June 18 to June 25.
 * Become a certified Software/Data Carpentry instructor!
 * Learn to repurpose and remix online training materials for your own needs!
 
-[Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSfC1MphcIhfNQzJKrbuuMBePTF0FFB_t3XJzYeWpMn1hWdxTQ/viewform) - applications will close **March 17th**.
+<!-- [Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSfC1MphcIhfNQzJKrbuuMBePTF0FFB_t3XJzYeWpMn1hWdxTQ/viewform) - applications will close **March 17th**. -->
+
+**If you applied for instructor training, we sent you registration
+information on Monday, April 17th. Please contact
+[dibsi.training@gmail.com](mailto:dibsi.training@gmail.com) if you
+didn't receive them.**
 
 ### Topic specific workshops
 
-From July 10 to July 21, we are planning a number of topic specific workshops.
-We'll announce these over the coming weeks - watch this space!
+We are running nine topic-specific workshops this summer!  Visit
+[the workshops page](workshops.html) for details or click on the
+image below.
 
-[List of prospective workshop ideas](workshop-ideas.html)
+[![Workshop bubbles](images/workshop-bubbles.png)](workshops.html)
 
-[We welcome input on what workshops to run!](https://docs.google.com/forms/d/e/1FAIpQLSfcLYvOvg_v-ALK4Rgt6eyrWcPpFYVMhmiiwFdJAaMYPnbI4w/viewform)
+Workshops are $350/wk to attend, plus room/board if you are staying on
+campus.
 
-Confirmed:
+Week 1: July 10-15
 
-* GWAS for veterinary animals - Tamer Mansour and Erica Scott
+* [Genome Wide Association Study Workshop](workshops.html#genome-wide-association-study-workshop) - Tamer Mansour and Erica Scott
+* [Undergraduate Curriculum Hackathon](workshops.html#undergraduate-curriculum-hackathon)
+* [Introduction to Python](workshops.html#introduction-to-python) - Emily Dolson
+* [Reproducible research with R/Data Hackathon](workshops.html#reproducible-research-with-r-data-hackathon) - Chris Hamm
+* [Cloud Training Materials Development](workshops.html#cloud-training-materials-development) - Daniel Standage and Luiz Irber
 
-Workshops will be approximately $350/wk to attend, plus room/board if
-you are staying on campus.
+Week 2: July 17-21
+
+* [Introduction to Transposon Insertion Sequencing Analysis (TNSeq/INSeq)](workshops.html#introduction-to-transposon-insertion-sequencing-analysis) - Mark Mandel
+* [Environmental Metagenomics](workshops.html#environmental-metagenomics-dibsi-em) - Harriet Alexander
+* [Non-model RNAseq, bring your own data](workshops.html#non-model-rnaseq-bring-your-own-data) - Tessa Pierce, Jane Khudyakov, and Lisa Cohen
+* [Introduction to R](workshops.html#introduction-to-r) - Michael Koontz
 
 ### Are you an undergraduate interested in a summer research experience? 
 

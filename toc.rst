@@ -19,7 +19,7 @@ Contents:
    coc
    ANGUS
    instructor-training
-   workshop-ideas
+   workshops
    DIBSRP
    getting-involved
    WHO
