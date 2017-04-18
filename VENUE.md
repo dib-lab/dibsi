@@ -25,7 +25,16 @@ flight.
 
 ## Lodging information
 
-On-campus lodging is being arranged through [Conference Housing Services](http://confhsg.ucdavis.edu/hostingaconference/rates/).
+On-campus lodging is being arranged through [Conference Housing Services](http://confhsg.ucdavis.edu/hostingaconference/rates/).  We have reserved space, and you must register for this through us.  The on-campus housing will be at [Thompson Hall](http://housing.ucdavis.edu/buildings/thompsonhall.asp), in the Segundo area.
+
+Off-campus lodging can be booked at any of our local hotels.  We have
+had good experience with the
+[Hyatt Place](https://ucdavis.place.hyatt.com/en/hotel/home.html), the
+[Aggie Inn](http://www.aggieinn.com/), and the
+[Best Estern Palm Court](https://www.bestwestern.com/en_US/book/hotel-details.05536.html). The
+Hyatt is on campus and is easy walking distance from Valley Hall; most
+other places downtown are a 25-30 minute walk or a 10 minute bike
+ride.
 
 ## Travel to and from Davis.
 
