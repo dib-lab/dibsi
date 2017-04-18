@@ -53,7 +53,7 @@ from June 19 to June 23.
 <!-- [Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSfC1MphcIhfNQzJKrbuuMBePTF0FFB_t3XJzYeWpMn1hWdxTQ/viewform) - applications will close **March 17th**. -->
 
 **If you applied for instructor training, we sent you registration
-information on Monday, April 17th. Please contact
+information on Tuesday, April 18th. Please contact
 [dibsi.training@gmail.com](mailto:dibsi.training@gmail.com) if you
 didn't receive it.**
 

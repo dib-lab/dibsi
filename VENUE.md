@@ -36,6 +36,11 @@ Hyatt is on campus and is easy walking distance from Valley Hall; most
 other places downtown are a 25-30 minute walk or a 10 minute bike
 ride.
 
+[AirBNB](http://www.airbnb.com) is also a perfectly good alternative!
+
+We suggest staying within the city of Davis, although Williamston,
+Woodland, and West Sacramento are relatively short drives.
+
 ## Travel to and from Davis.
 
 Davis is located about 60 miles north of the Bay Area and 20 miles west of

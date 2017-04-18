@@ -34,15 +34,24 @@ and basic experience with the command line.
 
 We anticipate a class size of approximately 25, with 3-6 instructors.
 
-## [Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSfC1MphcIhfNQzJKrbuuMBePTF0FFB_t3XJzYeWpMn1hWdxTQ/viewform)
+<!-- ## [Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSfC1MphcIhfNQzJKrbuuMBePTF0FFB_t3XJzYeWpMn1hWdxTQ/viewform)
 
 Applications will close **March 17th**.
+-->
 
-The course fee will be $350 for this workshop.  On campus housing may
-not be available for this workshop, but if it is, room and board will
-be approximately $500/wk additional (see
-[venue information](VENUE.html)).  (Alternatives will include local
-hotels and Airbnb.)
+## More information
+
+Applicants should receive registration information by end-of-day April
+18th.
+
+The course fee is $350 for this workshop. 
+
+On campus housing is not available for this workshop; see
+[venue information](VENUE.html) for alternatives.
+
+The workshop will start on Monday at 9am, and end at 3pm on Friday.
+The planned schedule during the week is 9am-3pm each day, 3-5pm Mon /
+Wed and 7-9pm on Tu and Th.  Please plan on attending the entire time.
 
 ----
 
