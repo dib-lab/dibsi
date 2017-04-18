@@ -73,7 +73,7 @@ Week 1: July 10-15
 * [Genome Wide Association Study Workshop](workshops.html#genome-wide-association-study-workshop) - Tamer Mansour and Erica Scott
 * [Undergraduate Curriculum Hackathon](workshops.html#undergraduate-curriculum-hackathon)
 * [Introduction to Python](workshops.html#introduction-to-python) - Emily Dolson
-* [Reproducible research with R/Data Hackathon](workshops.html#reproducible-research-with-r-data-hackathon) - Chris Hamm
+* [Reproducible research with R/Data Hackathon](workshops.html#reproducible-research-with-r-data-hackathon) - Chris Hamm and Ciera Martinez
 * [Cloud Training Materials Development](workshops.html#cloud-training-materials-development) - Daniel Standage and Luiz Irber
 
 Week 2: July 17-21
@@ -83,13 +83,13 @@ Week 2: July 17-21
 * [Non-model RNAseq, bring your own data](workshops.html#non-model-rnaseq-bring-your-own-data) - Tessa Pierce, Jane Khudyakov, and Lisa Cohen
 * [Introduction to R](workshops.html#introduction-to-r) - Michael Koontz
 
-### Are you an undergraduate interested in a summer research experience? 
+### Are you an undergraduate interested in a summer research experience?
 
-We are launching a summer research program for students from groups 
-historically underrepresented in biology. Summer interns will particpate 
-in DIBSRP and an 8-10 week mentored research project in data biology (i.e. metagenomics, 
-transcriptomics, etc.). More info [here](DIBSRP.html); if you have questions 
-send us an e-mail at [dibsrp@gmail.com](mailto:dibsrp@gmail.com). 
+We are launching a summer research program for students from groups
+historically underrepresented in biology. Summer interns will particpate
+in DIBSRP and an 8-10 week mentored research project in data biology (i.e. metagenomics,
+transcriptomics, etc.). More info [here](DIBSRP.html); if you have questions
+send us an e-mail at [dibsrp@gmail.com](mailto:dibsrp@gmail.com).
 
 ### Are you interested in joining us as an instructor or a TA?
 
