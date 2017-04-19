@@ -41,7 +41,7 @@ We anticipate a class size of approximately 25, with 3-6 instructors.
 ## More information
 
 Applicants should receive registration information by end-of-day April
-18th.
+20th.
 
 The course fee is $350 for this workshop. 
 

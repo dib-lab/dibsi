@@ -25,7 +25,13 @@ flight.
 
 ## Lodging information
 
-On-campus lodging is being arranged through [Conference Housing Services](http://confhsg.ucdavis.edu/hostingaconference/rates/).  We have reserved space, and you must register for this through us.  The on-campus housing will be at [Thompson Hall](http://housing.ucdavis.edu/buildings/thompsonhall.asp), in the Segundo area.
+On-campus lodging is being arranged through
+[Conference Housing Services](http://confhsg.ucdavis.edu/hostingaconference/rates/).
+We have reserved space, and you must register for this through us.
+The on-campus housing will be at
+[Thompson Hall](http://housing.ucdavis.edu/buildings/thompsonhall.asp),
+in the Segundo area.  Note, due to space constraints, we cannot guarantee
+single-room lodging for attendees.
 
 Off-campus lodging can be booked at any of our local hotels.  We have
 had good experience with the
