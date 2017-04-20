@@ -2,7 +2,7 @@
 <img style="float: right; max-width=10%; border-radius: 2px; padding: 2px; border: 1px solid #ddd" src="_static/bird-standing.jpg" width=100>
 
 We are running nine topic-specific workshops this summer!  There will
-be two weeks of workshops - July 10-15, and July 17-21.  See below for
+be two weeks of workshops - July 10-14, and July 17-21.  See below for
 more information.
 
 ![Workshop bubbles](images/workshop-bubbles.png)
@@ -28,7 +28,7 @@ may book a full four weeks of housing.
 For questions about registration, travel, invitation letters, or other
 general topics, please contact [dibsi.training@gmail.com](mailto:dibsi.training@gmail.com).  For workshop specific questions, contact the instructors (e-mail links are under each workshop).
 
-Week 1: July 10-15
+Week 1: July 10-14
 
 * [Genome Wide Association Study Workshop](workshops.html#genome-wide-association-study-workshop) - Tamer Mansour and Erica Scott
 * [Undergraduate Curriculum Hackathon](workshops.html#undergraduate-curriculum-hackathon)
@@ -43,15 +43,15 @@ Week 2: July 17-21
 * [Non-model RNAseq, bring your own data](workshops.html#non-model-rnaseq-bring-your-own-data) - Tessa Pierce, Jane Khudyakov, and Lisa Cohen
 * [Introduction to R](workshops.html#introduction-to-r) - Michael Koontz
 
-## Week 1 -- July 10-15.
+## Week 1 -- July 10-14.
 
 These workshops will start on Monday, July 10th at 9am, and finish by
-Friday, July 15th, at 5pm.  On campus housing is available Sunday through
+Friday, July 14th, at 5pm.  On campus housing is available Sunday through
 Saturday.
 
 ### Genome Wide Association Study Workshop
 
-Dates: July 10-15
+Dates: July 10-14
 
 Instructors: [Tamer Mansour](mailto:drtamermansour@gmail.com), Erica Scott
 
@@ -74,7 +74,7 @@ studies are required.
 
 ###  Undergraduate Curriculum Hackathon
 
-Dates: July 10-15
+Dates: July 10-14
 
 Organizers: David Still, Andreas Madlung, Amy Runck, Phillip Brooks,
 Karen Word, Sara Edge, Lisa Cohen, Jessica Mizzi, Alexandra
@@ -106,7 +106,7 @@ bioinformatics in undergraduate settings will be discussed.
 
 ### Introduction to Python
 
-Dates: July 10-15
+Dates: July 10-14
 
 Instructor: [Emily Dolson](mailto:EmilyLDolson@gmail.com)
 
@@ -132,7 +132,7 @@ to meet the needs of the attendees.
 
 ### Reproducible research with R/Data Hackathon
 
-Dates: July 10-15
+Dates: July 10-14
 
 Instructors: [Chris Hamm](mailto:cahamm@ucdavis.edu)
 
@@ -169,7 +169,7 @@ At the conclusion of this workshop, participants will be able to:
 
 ### Cloud Training Materials Development 
 
-Dates: July 10-15
+Dates: July 10-14
 
 Organizers: Daniel Standage, Luiz Irber
 

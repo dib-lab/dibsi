@@ -68,7 +68,7 @@ image below.
 Workshops are $350/wk to attend, plus room/board if you are staying on
 campus.
 
-Week 1: July 10-15
+Week 1: July 10-14
 
 * [Genome Wide Association Study Workshop](workshops.html#genome-wide-association-study-workshop) - Tamer Mansour and Erica Scott
 * [Undergraduate Curriculum Hackathon](workshops.html#undergraduate-curriculum-hackathon)
