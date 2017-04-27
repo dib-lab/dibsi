@@ -16,7 +16,7 @@ entire time to the workshop.  Workshops are $350/wk.
 
 On-campus housing information is available for approximately $400/wk,
 which includes breakfast and dinner.  Housing registration currently
-closes April 26th.
+closes May 9th.
 
 Registration links for each workshop are under the workshop
 description; housing is linked there as well, and must be booked
@@ -77,8 +77,8 @@ studies are required.
 Dates: July 10-15
 
 Organizers: David Still, Andreas Madlung, Amy Runck, Phillip Brooks,
-Karen Word, Sara Edge, Lisa Cohen, Jessica Mizzi, Alexandra
-Colón-Rodríguez, Jon Badalementi
+Karen Word, Lisa Cohen, Jessica Mizzi, Alexandra
+Colón-Rodríguez
 
 Contact: [Karen Word](mailto:krlizars@ucdavis.edu)
  
