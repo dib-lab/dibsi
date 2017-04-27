@@ -2,7 +2,9 @@
 
 Dates: Approximately June 12th - August 4th (Exact dates TBD)
 
-Co-coordinators: Phillip T. Brooks, Alexandra Colon-Rodriguez, C. Titus Brown
+Director: C. Titus Brown
+
+Co-coordinators: Phillip T. Brooks and Alexandra Colon-Rodriguez
 
 Questions? Please send us an email at [dibsrp@gmail.com](mailto:dibsrp@gmail.com)
 
