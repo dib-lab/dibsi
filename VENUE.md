@@ -103,7 +103,8 @@ main campus.  It should be no more than a 15 minute walk from any
 on-campus housing, and no more than a 25 minute bike ride from any
 locations in Davis.  During the summer there is ample on-site parking
 for about $7/day.  Breakfasts, lunches and dinners will be close to
-the workshop rooms and lodging.
+the workshop rooms and lodging; note that lunch is not covered by
+the housing plan, and should be about $10/day if you eat at the cafe.
 
 ## Weather and attire.
 
