@@ -45,18 +45,26 @@ Students will gain practical experience in:
 You can read a blog post about the 2015 course here:
 [http://ivory.idyll.org/blog/2015-small-batch.html](http://ivory.idyll.org/blog/2015-small-batch.html)
 
-#### [Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSchSuErTHw9aleA_peGZsXwFHiXmr2GM4OMqgFxqY03DGiL-g/viewform)
+Applications for housing are closed, but we may still have space in
+the workshop; please [contact us](dibsi.training@gmail.com) if you are
+interested in attending.
 
-Applications will close **March 17th**.
+The course fee will be $500 for this workshop.
 
-The course fee will be $500 for this workshop.  If you are staying in
-campus housing, room and board is approximately $500/wk additional
-(see [venue information](VENUE.html)).
+## Computer requirements
+
+You will need to bring a computer that can connect to wifi, and you should
+have a modern browser (Google Chrome or Safari or Firefox) installed.  No
+specific operating system is required.
+
+We will use [XSEDE Jetstream](https://jetstream-cloud.org/) academic cloud
+computing to execute data analysis for the workshop; all analysis will be
+done remotely.
 
 ## History
 
 This workshop was run at Michigan State University's Kellogg
-Biological Station from 2010 and 2016, with support from the USDA and
+Biological Station from 2010 to 2016, with support from the USDA and
 NIH (see [Funders](FUNDERS.html)).  Dr. Brown is the founding course
 director and ran the workshop from 2010-2015; Dr. Staton (UTK) and
 Dr. MacManes (UNH) were the 2016 course directors.
