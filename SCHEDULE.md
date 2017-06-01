@@ -93,7 +93,6 @@ Friday:
 
 Saturday - 
 
+* 9am: Titus Brown, title: What does the future hold in a world of infinite data?
 * 9am-noon - lab/lecture/instruction
 * noon - end of day
-
-
