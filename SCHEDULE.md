@@ -8,6 +8,7 @@ Monday:
 * 7:30-9pm - lab/lecture/instruction
 
 Tuesday:
+* morning speaker: Titus Brown, title: On Biology and Data Analysis
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch break (lunch on your own)
 * 1:15-3pm - lab/lecture/instruction
@@ -15,7 +16,8 @@ Tuesday:
 * 5:30-7:30 - dinner
 * 7:30pm-9pm - lab/lecture/instruction
 
-Wednesday:
+Wednesday 6/28:
+* morning speaker: Melissa Wilson Sayres, title: TBD (genomics and bioinformatics on sex chromosomes; evolution)
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch break (lunch on your own)
 * 1:15-4pm - lab/lecture/instruction
@@ -32,6 +34,7 @@ Thursday:
 * 7:30pm-9pm - lab/lecture/instruction
 
 Friday:
+* 9am: Adrienne Roeder (Cornell) - title: TBD (Reaching biological conclusions from RNAseq)
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch (lunch on your own)
 * 1:15-4pm - lab/lecture/instruction
@@ -49,6 +52,7 @@ Sunday: free time!
 ## Second week, July 3-July 8
 
 Monday
+* 9am: Erich Schwarz (Cornell): title: TBD (Reaching biological conclusions from genomes)
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch (lunch on your own)
 * 1:15-3pm - lab/lecture/instruction
@@ -58,6 +62,7 @@ Monday
 
 Tuesday - July 4th
 
+* 9am: (tentative) Round table on future of biology/genomics/bioinformatics (Erich, Titus, Adrienne, ??)
 * 9am-noon - lab/lecture/instruction
 * noon - end of day; Davis Community Park fireworks booths & show at dusk.
 
@@ -69,6 +74,7 @@ Wednesday:
 * 5:30-7:30 - dinner
 
 Thursday:
+* 9am: Rob Patro (Stony Brook), title (TBD) (Mapping RNAseq reads to references - pragmatic and theoretical concerns)
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch (lunch on your own)
 * 1:15-3pm - lab/lecture/instruction
@@ -77,6 +83,7 @@ Thursday:
 * 7:30pm-9pm - lab/lecture/instruction
 
 Friday:
+* 9am: Mike Love (UNC), title: (TBD) (Statistics and bias correction in RNAseq differential expression analysis)
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch (lunch on your own)
 * 1:15-4pm - lab/lecture/instruction
