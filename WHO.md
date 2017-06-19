@@ -49,6 +49,13 @@ endocrinology.  She now works with Dr. Brown on developing
 instructional strategies for "training the trainers", effective
 computational teaching, and evaluation and assessment.
 
+### TA and Instructor Coordination
+
+Lisa J. Cohen, graduate student.
+
+Lisa is working on her PhD in Dr. Brown's lab, working on environmental
+molecular biology and large-scale bioinformatics.
+
 ## Photo credits
 
 The photos on this site are Copyright (C) 2016 Jonathan Eisen, and reproduced
