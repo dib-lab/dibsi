@@ -94,19 +94,23 @@ A car is typically not needed in Davis, as the weather is almost
 always good.  On campus housing is a short walk from drugstores and
 supermarkets, and a medium walk (~20 minutes) to downtown.  Davis is
 very bike friendly and bike rentals are available on a daily or weekly
-basis (e.g. [Ken's Bike and Ski](http://kensbikeski.com/)).
+basis (from [Ken's Bike and Ski](http://kensbikeski.com/) and also the
+[UC Davis Bike Barn](https://bikebarn.ucdavis.edu/rentals/)).  There
+are also a number of [ZipCar](http://zipcar.com) locations on and near
+campus for hourly car rental, and Uber and Lyft work well within town
+during the day and evening.
 
 The venue for the Summer Institute is the
 [Valley Hall](http://www.vetmed.ucdavis.edu/Academic_Programs/map/ValleyHall/)
 teaching facility, located on the Health Sciences side of UC Davis
 main campus.  It should be no more than a 15 minute walk from any
 on-campus housing, and no more than a 25 minute bike ride from any
-locations in Davis.  During the summer there is ample on-site parking
-for about $7/day.  Breakfasts, lunches and dinners will be close to
-the workshop rooms and lodging; note that breakfast and dinner are
-covered only if you are in the conference housing, and lunch is not
-covered by the housing plan. Lunch each day should be about $10/day if
-you eat at the cafe.
+location in Davis.  During the summer there is ample on-site parking
+for about $9/day - see parking lots 50, 53, and 55.  Breakfasts,
+lunches and dinners will be close to the workshop rooms and lodging;
+note that breakfast and dinner are covered only if you are in the
+conference housing, and lunch is not covered by the housing
+plan. Lunch each day should be about $10/day if you eat at the cafe.
 
 ## Weather and attire.
 
