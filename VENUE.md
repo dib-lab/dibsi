@@ -157,6 +157,22 @@ strive to accomodate your needs!
 
 * The City of Davis has many bookstores, bars, restaurants, and movie theaters within easy walking distance.
 
+## Address for shipping
+
+If you want to order something from Amazon, shipping to campus can
+be tricky.  The following address has worked well in the past:
+
+```
+Charles Titus Brown
+re: <your name here>
+1 Shields Ave 251 CCAH
+Davis, CA 95616-5270
+US
+```
+
+You'll need to contact one of the student assistants at DIBSI to retrieve
+your package, however!
+
 ----
 
 If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](mailto:dibsi.training@gmail.com).
