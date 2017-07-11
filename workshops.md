@@ -30,15 +30,12 @@ general topics, please contact [dibsi.training@gmail.com](mailto:dibsi.training@
 
 Week 1: July 10-14
 
-* [Genome Wide Association Study Workshop](workshops.html#genome-wide-association-study-workshop) - Tamer Mansour and Erica Scott
 * [Undergraduate Curriculum Hackathon](workshops.html#undergraduate-curriculum-hackathon)
 * [Introduction to Python](workshops.html#introduction-to-python) - Emily Dolson
-* [Reproducible research with R/Data Hackathon](workshops.html#reproducible-research-with-r-data-hackathon) - Chris Hamm
 * [Cloud Training Materials Development](workshops.html#cloud-training-materials-development) - Daniel Standage and Luiz Irber
 
 Week 2: July 17-21
 
-* [Introduction to Transposon Insertion Sequencing Analysis (TNSeq/INSeq)](workshops.html#introduction-to-transposon-insertion-sequencing-analysis) - Mark Mandel
 * [Environmental Metagenomics](workshops.html#environmental-metagenomics-dibsi-em) - Harriet Alexander
 * [Non-model RNAseq, bring your own data](workshops.html#non-model-rnaseq-bring-your-own-data) - Tessa Pierce, Jane Khudyakov, and Lisa Cohen
 * [Introduction to R](workshops.html#introduction-to-r) - Michael Koontz
@@ -48,29 +45,6 @@ Week 2: July 17-21
 These workshops will start on Monday, July 10th at 9am, and finish by
 Friday, July 14th, at 5pm.  On campus housing is available Sunday through
 Saturday.
-
-### Genome Wide Association Study Workshop
-
-Dates: July 10-14
-
-Instructors: [Tamer Mansour](mailto:drtamermansour@gmail.com), Erica Scott
-
-Genome wide association study is a trending approach in modern
-genetics. However, for many years, GWAS was limited by the coverage
-and sensitivity of SNP arrays. In the era of NGS, whole genome
-sequencing is liberating GWAS from these limitations and is now
-providing new solutions for chronic problems like pedigree validation
-and population stratification. In this course we will use the
-[GATK](https://software.broadinstitute.org/gatk/) pipeline for variant
-calling on WGS from several dogs, and we will then use the
-[PLINK](https://www.cog-genomics.org/plink2) software for GWAS
-analysis to identify one of the important coat color genes. Basic bash
-scripting skills and a reasonable understanding of genetic association
-studies are required.
-
-#### [Workshop registration](https://registration.genomecenter.ucdavis.edu/events/DIBSI_GWAS/)
-
-#### [Housing registration](https://registration.genomecenter.ucdavis.edu/events/Housing/)
 
 ###  Undergraduate Curriculum Hackathon
 
@@ -130,43 +104,6 @@ to meet the needs of the attendees.
 
 #### [Housing registration](https://registration.genomecenter.ucdavis.edu/events/Housing/)
 
-### Reproducible research with R/Data Hackathon
-
-Dates: July 10-14
-
-Instructors: [Chris Hamm](mailto:cahamm@ucdavis.edu)
-
-This workshop will be a hybrid between a two-day Software Carpentry
-style workshop followed by a hack-a-thon. In this workshop
-participants will learn the fundamentals of employing reproducible
-research in the R language, followed by three days of instructor-led
-group working sessions where participants will employ the skills just
-acquired towards their own research projects.
-
-Target audience: everyone is welcome: grad students, post-docs,
-faculty, everyone. Ideally, participants will have a working knowledge
-of R and a research project with some analyses ready to go.
-
-At the conclusion of this workshop, participants will be able to:
-
-* Describe reproducible research.
-* Characterize the benefits of using knitr and RStudio for
-  reproducible research.
-* Explain importance of version control
-* Apply version control to research project using RStudio
-* Explain the importance of consistent file names and proper dates.
-* Describe a directory organization and work flow that lends itself to reproducible research.
-* Explain why documenting and commenting is important for reproducible research.
-* Demonstrate use of knitr and Rmarkdown to integrate code and text.
-* Describe what automation is.
-* Recognize circumstances where automation would be beneficial.
-* Summarize the benefits of publishing code and data
-* Describe commonly used software licenses
-
-#### [Workshop registration](https://registration.genomecenter.ucdavis.edu/events/DIBSI_Repro_research_workshop/)
-
-#### [Housing registration](https://registration.genomecenter.ucdavis.edu/events/Housing/)
-
 ### Cloud Training Materials Development 
 
 Dates: July 10-14
@@ -204,38 +141,6 @@ Friday, July 21st, at noon.
 
 Note that on campus housing is available from Sunday, July 16th,
 through July 21st.
-
-### Introduction to Transposon Insertion Sequencing Analysis
-
-Dates: July 17-21
-
-Instructor: [Mark Mandel](mailto:m-mandel@northwestern.edu)
-
-Transposon insertion sequencing is a method to conduct high-throughput
-forward genetic experiments in bacterial mutant populations. Most of
-the workshop will focus on experimental design and hands-on data
-analysis using the Insertion Sequencing (INSeq) technology described
-by
-[Goodman et al (Cell Host & Microbe, 2009](https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19748469/);
-[Nature Protocols, 2011](http://www.nature.com/nprot/journal/v6/n12/abs/nprot.2011.417.html)). We
-will briefly discuss other variations in mutant library generation and
-in data analysis workflows.
-
-This workshop is intended for beginners, although it would be helpful
-for participants to have basic familiarity with command-line
-usage. Material will cover the history of transposon sequencing as
-well as its role in modern genetic approaches. Attendees will learn
-how to use the unix command line to install and run a python software
-package on their computer and on remote computers. Sample data will be
-provided for attendees to demultiplex the transposon sequencing
-samples, map the data to the genome, and analyze transposon library
-dynamics across samples. Though not required, if you have your own
-data there will likely be time to begin to analyze it during the
-workshop.
-
-#### [Workshop registration](https://registration.genomecenter.ucdavis.edu/events/DIBSI_tn_seq/)
-
-#### [Housing registration](https://registration.genomecenter.ucdavis.edu/events/Housing/)
 
 ### Environmental Metagenomics (DIBSI-EM)
 

@@ -59,7 +59,7 @@ didn't receive it.**
 
 ### [Topic specific workshops](workshops.html)
 
-We are running nine topic-specific workshops this summer!  Visit
+We are running several topic-specific workshops this summer!  Visit
 [the workshops page](workshops.html) for details or click on the
 image below.
 
@@ -70,15 +70,12 @@ campus.
 
 Week 1: July 10-14
 
-* [Genome Wide Association Study Workshop](workshops.html#genome-wide-association-study-workshop) - Tamer Mansour and Erica Scott
 * [Undergraduate Curriculum Hackathon](workshops.html#undergraduate-curriculum-hackathon)
 * [Introduction to Python](workshops.html#introduction-to-python) - Emily Dolson
-* [Reproducible research with R/Data Hackathon](workshops.html#reproducible-research-with-r-data-hackathon) - Chris Hamm and Ciera Martinez
 * [Cloud Training Materials Development](workshops.html#cloud-training-materials-development) - Daniel Standage and Luiz Irber
 
 Week 2: July 17-21
 
-* [Introduction to Transposon Insertion Sequencing Analysis (TNSeq/INSeq)](workshops.html#introduction-to-transposon-insertion-sequencing-analysis) - Mark Mandel
 * [Environmental Metagenomics](workshops.html#environmental-metagenomics-dibsi-em) - Harriet Alexander
 * [Non-model RNAseq, bring your own data](workshops.html#non-model-rnaseq-bring-your-own-data) - Tessa Pierce, Jane Khudyakov, and Lisa Cohen
 * [Introduction to R](workshops.html#introduction-to-r) - Michael Koontz
