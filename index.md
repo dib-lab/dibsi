@@ -34,12 +34,7 @@ approximately $400/week for non-local attendees.
 * Summer sequencing camp - meet and talk science with great people!
 * Now in its eighth year!
 
-<!-- [Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSchSuErTHw9aleA_peGZsXwFHiXmr2GM4OMqgFxqY03DGiL-g/viewform) - applications will close **March 17th**. -->
-
-**If you applied for ANGUS, we sent you registration information on
-Monday, April 17th.  Please contact
-[dibsi.training@gmail.com](mailto:dibsi.training@gmail.com) if you
-didn't receive it.**
+#### [2017 materials are now available!](https://angus.readthedocs.io/en/2017/)
 
 ### [Instructor training!](instructor-training.html)
 
@@ -49,13 +44,6 @@ from June 19 to June 23.
 * Hands-on training in good pedagogical practice!
 * Become a certified Software/Data Carpentry instructor!
 * Learn to repurpose and remix online training materials for your own needs!
-
-<!-- [Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSfC1MphcIhfNQzJKrbuuMBePTF0FFB_t3XJzYeWpMn1hWdxTQ/viewform) - applications will close **March 17th**. -->
-
-**If you applied for instructor training, we sent you registration
-information on Tuesday, April 18th. Please contact
-[dibsi.training@gmail.com](mailto:dibsi.training@gmail.com) if you
-didn't receive it.**
 
 ### [Topic specific workshops](workshops.html)
 
@@ -88,11 +76,15 @@ in DIBSRP and an 8-10 week mentored research project in data biology (i.e. metag
 transcriptomics, etc.). More info [here](DIBSRP.html); if you have questions
 send us an e-mail at [dibsrp@gmail.com](mailto:dibsrp@gmail.com).
 
+<!--
+
 ### Are you interested in joining us as an instructor or a TA?
 
 We are looking for people to join us - see our
 [getting involved](getting-involved.html) page! (We will cover travel,
 room and board.)
+
+-->
 
 ## Other information
 
