@@ -7,6 +7,8 @@ more information.
 
 ![Workshop bubbles](images/workshop-bubbles.png)
 
+#### [Workshop intro slides for secodn week](https://osf.io/xumsk/)
+
 ## Basic workshop information
 
 All workshops will take place at UC Davis; please see [the venue information](VENUE.html) for details.
