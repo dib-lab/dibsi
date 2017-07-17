@@ -33,7 +33,10 @@ If you are being harassed, notice that someone else is being harassed,
 or have any other concerns, please contact `Titus Brown
 <mailto:ctbrown@ucdavis.edu>`__ immediately.  If Titus is the cause of
 your concern, please see `the UC Davis ombuds office
-<http://ombuds.ucdavis.edu/>`__.
+<http://ombuds.ucdavis.edu/>`__.  You may also contact Sue McClatchy,
+Susan.McClatchy@jax.org, a Senior Program Manager of Bioinformatics
+Education at The Jackson Laboratory if you would like to discuss an
+incident informally.
 
 We expect participants to follow these guidelines at any DIBSI-related
 event.
