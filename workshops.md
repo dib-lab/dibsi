@@ -7,7 +7,7 @@ more information.
 
 ![Workshop bubbles](images/workshop-bubbles.png)
 
-#### [Workshop intro slides for secodn week](https://osf.io/xumsk/)
+[NOTE: here are the Workshop intro slides for second week](https://osf.io/xumsk/)
 
 ## Basic workshop information
 
