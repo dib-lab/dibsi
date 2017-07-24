@@ -1,6 +1,17 @@
 ![Yolo Basin panorama](images/yolo-panorama.jpg "DIBSI 2017")
 
-# 2017 Data Intensive Biology Summer Institute at UC Davis
+# DIBSI 2017 is now over!
+
+Please see
+[the DIBSI announce forum](https://groups.io/g/dibsi-announce/topics)
+for announcements regarding future Data Intensive Biology Summer
+Institutes.  You can subscribe to announcements there if you would
+like to receive them.
+
+The remaining part of this page is archival and will be updated if and
+when we solidify plans for DIBSI 2018.
+
+## 2017 Data Intensive Biology Summer Institute at UC Davis
 
 From June 19 to July 21, 2017, we'll be running several different
 computational training events at the University of California, Davis
