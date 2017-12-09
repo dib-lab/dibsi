@@ -1,10 +1,9 @@
 # Getting involved
 
-We are seeking about six lead instructors for [ANGUS](ANGUS.html)
-(June 26-July 8), teaching assistants for some or all of June 26-July
-21, and workshop leaders for one-week workshops between July 10-July 21.
+We are seeking teaching assistants for some or all of the [ANGUS](ANGUS.html)
+workshop (July 2-July 14).
 
-[Indicate interest here!](https://docs.google.com/forms/d/e/1FAIpQLSeTznTCcD4Ta9NrdI66HhNM8OeNPTrrulGnvDqqQPAcb-MflA/viewform)
+[Indicate interest here!](https://docs.google.com/forms/d/e/1FAIpQLSeTznTCcD4Ta9NrdI66HhNM8OeNPTrrulGnvDqqQPAcb-MflA/viewform) @CTB
 
 ## What's in it for me?
 
@@ -45,7 +44,7 @@ under an open license (generally CC-BY).
 
 We're hoping to provide digital badges acknowledging your roles!
 
-## [Indicate interest here!](https://docs.google.com/forms/d/e/1FAIpQLSeTznTCcD4Ta9NrdI66HhNM8OeNPTrrulGnvDqqQPAcb-MflA/viewform)
+## [Indicate interest here!](https://docs.google.com/forms/d/e/1FAIpQLSeTznTCcD4Ta9NrdI66HhNM8OeNPTrrulGnvDqqQPAcb-MflA/viewform) @CTB
 
 ----
 

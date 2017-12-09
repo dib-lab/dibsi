@@ -2,11 +2,11 @@
 
 # Instructor training
 
-June 19-June 23, 2017.
+June 25-26, 2018.
 
-Instructors: Lex Nederbragt, Karen Word, and Sue McClatchy.
+Instructors: TBD.
 
-Local organizer: C. Titus Brown
+Local organizer: Karen Word.
 
 This workshop is intended for people interested in teaching, reusing
 and repurposing the
@@ -25,10 +25,10 @@ instruction, and experienced instructors will be on hand to address
 questions about implementation.
 
 Attendees of this workshop may opt to remain at the following
-[ANGUS](ANGUS.html) two-week workshops so that they can gain hands-on
-experience in preparing and teaching a lesson.
+Carpentry two-day and [ANGUS](ANGUS.html) two-week workshops so that
+they can gain hands-on experience in preparing and teaching a lesson.
 
-This week-long training will also serve as
+This two-day training will fulfill the requirements of
 [Software/Data Carpentry Instructor Training](https://swcarpentry.github.io/instructor-training/).
 
 Attendees should have significant familiarity with molecular biology
@@ -50,9 +50,7 @@ The course fee is $350 for this workshop.
 On campus housing is not available for this workshop; see
 [venue information](VENUE.html) for alternatives.
 
-The workshop will start on Monday at 9am, and end at 3pm on Friday.
-The planned schedule during the week is 9am-3pm each day, 3-5pm Mon /
-Wed and 7-9pm on Tu and Th.  Please plan on attending the entire time.
+The workshop will start on Monday 9am, and end at 5pm on Tuesday.
 
 ----
 

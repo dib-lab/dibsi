@@ -30,16 +30,6 @@ reproducibility.  ([blog](http://ivory.idyll.org/blog/),
 
 ### Associate Director
 
-Dr. Phillip T. Brooks, postdoctoral fellow.
-
-Phillip holds a PhD from Michigan State University in Comparative 
-Medicine and Integrative Biology where he worked on interactions between the 
-microbiome and host immune system. He now conducts research in microbiome data 
-analysis and teaching/training in bioinformatics and genomics at the UC Davis 
-School of Veterinary Medicine.
-
-### Assessment and Evaluation
-
 Dr. Karen R. Word, postdoctoral fellow.
 
 
@@ -51,10 +41,7 @@ computational teaching, and evaluation and assessment.
 
 ### TA and Instructor Coordination
 
-Lisa J. Cohen, graduate student.
-
-Lisa is working on her PhD in Dr. Brown's lab, working on environmental
-molecular biology and large-scale bioinformatics.
+TBD.
 
 ## Photo credits
 

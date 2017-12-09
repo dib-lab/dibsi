@@ -1,6 +1,6 @@
 # Venue information - travel to and from, local entertainment, and transportation.
 
-## Where DIBSI will happen
+## Where DIBSI 2018 will happen
 
 The venue for the Summer Institute is the
 [Valley Hall](http://www.vetmed.ucdavis.edu/Academic_Programs/map/ValleyHall/)
@@ -27,25 +27,10 @@ flight.
 
 On-campus lodging is being arranged through
 [Conference Housing Services](http://confhsg.ucdavis.edu/hostingaconference/rates/).
-We have reserved space, and you must register for this through us.
-The on-campus housing will be at
-[Thompson Hall](http://housing.ucdavis.edu/buildings/thompsonhall.asp),
-in the Segundo area.  Note, due to space constraints, we cannot guarantee
+We have reserved space, and non-UC Davis attendees are expected to stay in
+housing.
+Note, due to space constraints, we cannot guarantee
 single-room lodging for attendees.
-
-Off-campus lodging can be booked at any of our local hotels.  We have
-had good experience with the
-[Hyatt Place](https://ucdavis.place.hyatt.com/en/hotel/home.html), the
-[Aggie Inn](http://www.aggieinn.com/), and the
-[Best Estern Palm Court](https://www.bestwestern.com/en_US/book/hotel-details.05536.html). The
-Hyatt is on campus and is easy walking distance from Valley Hall; most
-other places downtown are a 25-30 minute walk or a 10 minute bike
-ride.
-
-[AirBNB](http://www.airbnb.com) is also a perfectly good alternative!
-
-We suggest staying within the city of Davis, although Williamston,
-Woodland, and West Sacramento are relatively short drives.
 
 ## Travel to and from Davis.
 

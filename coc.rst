@@ -8,6 +8,8 @@ from all attendees to help ensuring a safe environment for everybody.
 The Quick Version
 -----------------
 
+DIBSI events are neither a dating scene nor an intellectual contest.
+
 DIBSI is dedicated to providing a harassment-free experience for
 everyone, regardless of gender, gender identity and expression, age,
 sexual orientation, disability, physical appearance, body size, race,
@@ -31,8 +33,9 @@ immediately.
 
 If you are being harassed, notice that someone else is being harassed,
 or have any other concerns, please contact `Titus Brown
-<mailto:ctbrown@ucdavis.edu>`__ immediately.  If Titus is the cause of
-your concern, please see `the UC Davis ombuds office
+<mailto:ctbrown@ucdavis.edu>`__ or `Karen Word
+<mailto:krlizars@ucdavis.edu>`__ immediately.  If Titus is the cause
+of your concern, please see `the UC Davis ombuds office
 <http://ombuds.ucdavis.edu/>`__.  You may also contact Sue McClatchy,
 Susan.McClatchy@jax.org, a Senior Program Manager of Bioinformatics
 Education at The Jackson Laboratory if you would like to discuss an

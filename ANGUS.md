@@ -1,9 +1,9 @@
 <img style="float: right; max-width=10%; border-radius: 2px; padding: 2px; border: 1px solid #ddd" src="_static/bird-kite.jpg" width=100>
 # ANGUS: Analyzing High Throughput Sequencing Data
 
-June 26 - July 8, 2017
+July 2 - July 14, 2018
 
-[2016 materials: http://angus.readthedocs.io/en/2016/](http://angus.readthedocs.io/en/2016/)
+[2017 materials: http://angus.readthedocs.io/en/2016/](http://angus.readthedocs.io/en/2017/)
 
 This intensive two week summer course will introduce attendees with a
 strong biology background to the practice of analyzing high-throughput
@@ -43,13 +43,13 @@ Students will gain practical experience in:
   [http://angus.readthedocs.org/](http://angus.readthedocs.org/) under a Creative Commons/full use+reuse license.
 
 You can read a blog post about the 2015 course here:
-[http://ivory.idyll.org/blog/2015-small-batch.html](http://ivory.idyll.org/blog/2015-small-batch.html)
+[http://ivory.idyll.org/blog/2015-small-batch.html](http://ivory.idyll.org/blog/2015-small-batch.html) @CTB
 
 Applications for housing are closed, but we may still have space in
 the workshop; please [contact us](dibsi.training@gmail.com) if you are
 interested in attending.
 
-The course fee will be $500 for this workshop.
+The course fee will be $850 for this workshop.
 
 ## Computer requirements
 
@@ -69,7 +69,7 @@ NIH (see [Funders](FUNDERS.html)).  Dr. Brown is the founding course
 director and ran the workshop from 2010-2015; Dr. Staton (UTK) and
 Dr. MacManes (UNH) were the 2016 course directors.
 
-There are now almost 200 alumni of the first 7 years!
+There are now almost 300 alumni of the first 8 years!
 
 With Dr. Brown's move to UC Davis, the workshop has expanded to serve
 more learners, and to include more activities.
