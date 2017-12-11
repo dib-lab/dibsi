@@ -6,6 +6,9 @@ all: html
 update: clean html
 	rsync -av _build/html/ t@vallista.idyll.org:ivory/dibsi/
 
+update-draft: clean html
+	rsync -av _build/html/ t@teckla.idyll.org:.html/dibsi/
+
 trial: clean html
 	rsync -av _build/html/ t@teckla.idyll.org:.html/dibsi-reg/
 

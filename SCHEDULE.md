@@ -1,10 +1,9 @@
 # ANGUS schedule, approximate:
 
-(@CTB needs to be updated)
-
 ## First week - July 2nd - July 6th
 
-Monday:
+Monday 7/2:
+* (plan to start at 1:30pm)
 * 7:30-9pm - welcome & getting started with Jetstream - Valley Hall.
 
 Tuesday:
@@ -16,7 +15,7 @@ Tuesday:
 * 5:30-7:30 - dinner
 * 7:30pm-9pm - lab/lecture/instruction
 
-Wednesday 6/28:
+Wednesday 7/4:
 * morning speaker: Melissa Wilson Sayres, title: Sex-biased genome evolution
 * 9am-noon - lab/lecture/instruction
 * BREAK for the day - July 4th activites
@@ -53,17 +52,21 @@ Monday
 
 Tuesday:
 
-* 9am: morning lecture.
+Tuesday:
+* morning speaker
 * 9am-noon - lab/lecture/instruction
-* noon - end of day; Davis Community Park fireworks booths & show at dusk.
+* noon-1:15 - lunch break (lunch on your own)
+* 1:15-3pm - lab/lecture/instruction
+* 3pm-5:30pm - free time
+* 5:30-7:30 - dinner
+* 7:30pm-9pm - lab/lecture/instruction
 
 Wednesday:
 * 9am: morning lecture.
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch (lunch on your own)
 * 1:15-4pm - lab/lecture/instruction
-* 4pm - end of day
-* 5:30-7:30 - dinner
+* 4pm - end of day (farmer's market downtown)
 
 Thursday:
 * 9am: morning lecture.
