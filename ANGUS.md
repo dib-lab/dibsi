@@ -19,8 +19,6 @@ unknown is necessary.  A year or more of graduate school in a
 biological science is strongly suggested. Faculty, postdocs, and
 research staff are more than welcome, as are researchers from industry.
 
-Note that this year we have much more room for attendees!
-
 A [draft schedule of hours for this year](SCHEDULE.html) is available.
 
 We plan to run multiple workshops of 20-30 participants each.
@@ -67,12 +65,11 @@ This workshop was run at Michigan State University's Kellogg
 Biological Station from 2010 to 2016, with support from the USDA and
 NIH (see [Funders](FUNDERS.html)).  Dr. Brown is the founding course
 director and ran the workshop from 2010-2015; Dr. Staton (UTK) and
-Dr. MacManes (UNH) were the 2016 course directors.
+Dr. MacManes (UNH) were the 2016 course directors. In 2017 the course
+moved to UC Davis with Dr. Brown, and we were able to expand to serve
+over 80 learners.
 
 There are now almost 300 alumni of the first 8 years!
-
-With Dr. Brown's move to UC Davis, the workshop has expanded to serve
-more learners, and to include more activities.
 
 ----
 

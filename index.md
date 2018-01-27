@@ -4,7 +4,7 @@
 
 From June 25th - July 14th, we're planning to run several
 computational training events at the University of California, Davis
--- the main event will be the 8th annual ANGUS workshop, a two-week
+-- the main event will be the 9th annual ANGUS workshop, a two-week
 workshop for biologists to learn basic bioinformatics and cloud
 computing.  We are also planning a Software Carpentry Instructor
 Training, several Software and Data Carpentry workshops, and a
@@ -28,6 +28,8 @@ will be approximately $450/week for non-local attendees.
 ### [Two-week sequence analysis workshop for biologists!](ANGUS.html)
 
 [The 2018 ANGUS workshop](ANGUS.html) will run from July 2 to July 14.
+
+Applications will open soon.
 
 * Zero-entry - **no experience** required or expected!
 * Hands-on training in using the UNIX command line to analyze your sequencing data.
@@ -53,7 +55,10 @@ room and board.)
 
 ## Other information
 
-Keep up to date by [joining our mailing list](http://lists.idyll.org/listinfo/dibsi-2017-interest). @CTB
+Stay tuned for more information about the Carpentry workshops and West
+Coast Carpentry-Con!
+
+Keep up to date by [joining the dibsi-announce mailing list](https://groups.io/g/dibsi-announce/join).
 
 [General information for attendees](ATTENDEES.html)
 

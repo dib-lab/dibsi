@@ -27,10 +27,10 @@ flight.
 
 On-campus lodging is being arranged through
 [Conference Housing Services](http://confhsg.ucdavis.edu/hostingaconference/rates/).
-We have reserved space, and non-UC Davis attendees are expected to stay in
-housing.
-Note, due to space constraints, we cannot guarantee
-single-room lodging for attendees.
+We have reserved space, and non-UC Davis attendees are expected to
+stay in housing.  Note, due to space constraints, we cannot guarantee
+single-room lodging for attendees, although in 2017 we were able to
+give everyone a single.
 
 ## Travel to and from Davis.
 
@@ -115,7 +115,8 @@ social events.  California is in general LGBTQ-friendly as well.
 
 Please inquire if you want to stay on campus with a partner or your
 family.  Note that there are some hotels that have family-suitable
-suites.
+suites. We can also point you towards some local summer programs for
+children that offer spots on a week-by-week basis.
 
 ## Special requirements
 

@@ -42,13 +42,7 @@ We anticipate a class size of approximately 25, with 3-6 instructors.
 
 ## More information
 
-Applicants should receive registration information by end-of-day April
-20th.
-
-The course fee is $350 for this workshop. 
-
-On campus housing is not available for this workshop; see
-[venue information](VENUE.html) for alternatives.
+The course fee is $350 for this workshop; housing should be avaialable.
 
 The workshop will start on Monday 9am, and end at 5pm on Tuesday.
 

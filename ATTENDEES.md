@@ -8,9 +8,9 @@ We operate under a [code of conduct](coc.html).
 
 Our core instructional teaching is hands-on, interactive, and slow
 paced with time for questions.  If you've taken a Software or Data
-Carpentry course, it's like that!  This is intentional; research shows
-that this provides for excellent learning, as well as allowing for
-many questions.
+Carpentry course, it's like a Carpentry workshop!  This is
+intentional; research shows that this provides for excellent learning,
+as well as allowing for many questions.
 
 ## Pace and expertise levels
 
@@ -57,5 +57,5 @@ We have some (limited) financial aid available; please inquire at
 
 There are various deadlines associated with registration and housing;
 once past the deadline, fees already paid cannot be refunded.  We will
-indicate these deadlines below as well as on the registration page and
-in e-mails.
+indicate these deadlines on this page below, as well as on the
+registration page and in e-mails.

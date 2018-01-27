@@ -16,7 +16,7 @@ Tuesday:
 * 7:30pm-9pm - lab/lecture/instruction
 
 Wednesday 7/4:
-* morning speaker: Melissa Wilson Sayres, title: Sex-biased genome evolution
+* morning speaker: TBD
 * 9am-noon - lab/lecture/instruction
 * BREAK for the day - July 4th activites
 
