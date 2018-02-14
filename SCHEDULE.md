@@ -7,7 +7,8 @@ included unless you are signed up for housing.
 
 Monday 7/2:
 * (plan to start at 1:30pm)
-* 7:30-9pm - welcome & getting started with Jetstream - Valley Hall.
+* 1:30-4pm - welcome & getting started with Jetstream - Valley Hall.
+* 7:30-9pm: poster session
 
 Tuesday:
 * morning speaker

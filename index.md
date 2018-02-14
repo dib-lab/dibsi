@@ -70,6 +70,8 @@ Keep up to date by [joining the dibsi-announce mailing list](https://groups.io/g
 
 [The two-week summer workshop materials from 2017](angus.readthedocs.io/en/2016/)
 
+[DIBSI 2017](2017/index.html)
+
 ----
 
 If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](mailto:dibsi.training@gmail.com).
