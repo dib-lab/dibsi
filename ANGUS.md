@@ -5,6 +5,12 @@ July 2 - July 14, 2018
 
 [2017 materials: http://angus.readthedocs.io/en/2016/](http://angus.readthedocs.io/en/2017/)
 
+### [Applications are open!](https://docs.google.com/forms/d/e/1FAIpQLSeuXw5aX6NUGdzb4NnhQi3CLEMIxHr_vvVZFB762fCJkkkYGA/viewform)
+
+Applications will close March 5th.
+
+-----
+
 This intensive two week summer course will introduce attendees with a
 strong biology background to the practice of analyzing high-throughput
 sequencing data (Illumina, PacBio, and Nanopore).  The first week will
@@ -41,11 +47,7 @@ Students will gain practical experience in:
   [http://angus.readthedocs.org/](http://angus.readthedocs.org/) under a Creative Commons/full use+reuse license.
 
 You can read a blog post about the 2015 course here:
-[http://ivory.idyll.org/blog/2015-small-batch.html](http://ivory.idyll.org/blog/2015-small-batch.html) @CTB
-
-Applications for housing are closed, but we may still have space in
-the workshop; please [contact us](dibsi.training@gmail.com) if you are
-interested in attending.
+[http://ivory.idyll.org/blog/2015-small-batch.html](http://ivory.idyll.org/blog/2015-small-batch.html)
 
 The course fee will be $850 for this workshop.
 
@@ -70,6 +72,17 @@ moved to UC Davis with Dr. Brown, and we were able to expand to serve
 over 80 learners.
 
 There are now almost 300 alumni of the first 8 years!
+
+### [Applications are open!](https://docs.google.com/forms/d/e/1FAIpQLSeuXw5aX6NUGdzb4NnhQi3CLEMIxHr_vvVZFB762fCJkkkYGA/viewform)
+
+Applications will close March 5th, and we will inform you of acceptance by
+the end of the day, March 12th.
+
+Note that applications are *not* accepted first come/first serve, and
+applicants are chosen to create a balanced group of students, so there
+are no "right answers"; please just give us as much information as you
+can! We are particularly happy to accept people with no previous
+computational experience of any kind.
 
 ----
 

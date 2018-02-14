@@ -24,9 +24,9 @@ with associated troubleshooting strategies. Content used in prior
 instruction, and experienced instructors will be on hand to address
 questions about implementation.
 
-Attendees of this workshop may opt to remain at the following
-Carpentry two-day and [ANGUS](ANGUS.html) two-week workshops so that
-they can gain hands-on experience in preparing and teaching a lesson.
+Attendees of this workshop should plan to remain at the following
+Carpentry two-day so that they can gain hands-on experience in
+preparing and teaching a lesson.
 
 This two-day training will fulfill the requirements of
 [Software/Data Carpentry Instructor Training](https://swcarpentry.github.io/instructor-training/).
@@ -36,13 +36,14 @@ and basic experience with the command line.
 
 We anticipate a class size of approximately 25, with 3-6 instructors.
 
-<!-- ## [Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSfC1MphcIhfNQzJKrbuuMBePTF0FFB_t3XJzYeWpMn1hWdxTQ/viewform) -->
+## [Apply here!](https://docs.google.com/forms/d/e/1FAIpQLSfC1MphcIhfNQzJKrbuuMBePTF0FFB_t3XJzYeWpMn1hWdxTQ/viewform)
 
-<!-- Applications will close **March 17th**. -->
+Applications will close **March 5th.**
 
 ## More information
 
-The course fee is $350 for this workshop; housing should be avaialable.
+The course fee is $350 for this workshop; housing will be available for the
+entire week.
 
 The workshop will start on Monday 9am, and end at 5pm on Tuesday.
 

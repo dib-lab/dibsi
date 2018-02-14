@@ -1,5 +1,8 @@
 # ANGUS schedule, approximate:
 
+Note, lunch is not included in housing plan and breakfast/dinner is not
+included unless you are signed up for housing.
+
 ## First week - July 2nd - July 6th
 
 Monday 7/2:
@@ -38,6 +41,9 @@ Friday:
 * 7:30pm-9pm - free time
 
 Saturday and Sunday: free time!
+
+We may hold OPTIONAL R and UNIX Command line workshops on Saturday,
+July 7 and Sunday, July 8th; details TBD.
 
 ## Second week, July 9-July 14.
 

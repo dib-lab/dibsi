@@ -3,7 +3,7 @@
 We are seeking teaching assistants for some or all of the [ANGUS](ANGUS.html)
 workshop (July 2-July 14).
 
-[Indicate interest here!](https://docs.google.com/forms/d/e/1FAIpQLSeTznTCcD4Ta9NrdI66HhNM8OeNPTrrulGnvDqqQPAcb-MflA/viewform) @CTB
+[Indicate interest here!](https://docs.google.com/forms/d/e/1FAIpQLSdrIV5owdGC8G3p1WvKvBb2EKYx948FCLNc5pekQjH83DYibg/viewform)
 
 ## What's in it for me?
 
@@ -44,7 +44,7 @@ under an open license (generally CC-BY).
 
 We're hoping to provide digital badges acknowledging your roles!
 
-## [Indicate interest here!](https://docs.google.com/forms/d/e/1FAIpQLSeTznTCcD4Ta9NrdI66HhNM8OeNPTrrulGnvDqqQPAcb-MflA/viewform) @CTB
+## [Indicate interest here!](https://docs.google.com/forms/d/e/1FAIpQLSdrIV5owdGC8G3p1WvKvBb2EKYx948FCLNc5pekQjH83DYibg/viewform)
 
 ----
 

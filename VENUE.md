@@ -32,6 +32,9 @@ stay in housing.  Note, due to space constraints, we cannot guarantee
 single-room lodging for attendees, although in 2017 we were able to
 give everyone a single.
 
+Note, lunch is not included in housing plan and breakfast/dinner is not
+included unless you are signed up for housing.
+
 ## Travel to and from Davis.
 
 Davis is located about 60 miles north of the Bay Area and 20 miles west of
