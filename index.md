@@ -29,7 +29,7 @@ will be approximately $450/week for non-local attendees.
 
 [The 2018 ANGUS workshop](ANGUS.html) will run from July 2 to July 14.
 
-Applications will open soon.
+[Applications are open!](https://docs.google.com/forms/d/e/1FAIpQLSeuXw5aX6NUGdzb4NnhQi3CLEMIxHr_vvVZFB762fCJkkkYGA/viewform)
 
 * Zero-entry - **no experience** required or expected!
 * Hands-on training in using the UNIX command line to analyze your sequencing data.
