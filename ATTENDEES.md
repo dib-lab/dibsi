@@ -44,16 +44,17 @@ workshops may have live streams.
 
 In order to enable the most people to come for the lowest price, we
 charge a minimal fee for registration and workshop attendance.  This
-year, since our funding from NIH has lapsed, we charging $850.  Your
-registration money primarily pays for instructor and TA travel, room,
-and board, as well as lead instructor honoraria.
+year, since our funding from NIH has lapsed, we are charging $850 for
+registration.  Your registration money primarily pays for instructor
+and TA travel, room, and board, as well as lead instructor honoraria.
+
+Room and board are extra.
 
 We try to operate at cost, which means we have thin margins; we have
 been supplemented by some grant money in the past. (See
 [our funders](FUNDERS.html).)
 
-We have some (limited) financial aid available; please inquire at
-[dibsi.training@gmail.com](mailto:dibsi.training@gmail.com).
+This year I'm afraid we have no financial aid available.
 
 There are various deadlines associated with registration and housing;
 once past the deadline, fees already paid cannot be refunded.  We will
