@@ -38,7 +38,7 @@ We anticipate a class size of approximately 25, with 3-6 instructors.
 
 ## [Apply here!](https://docs.google.com/forms/d/e/1FAIpQLScl_-fzt6eX9mSwJNy5JuNJUL44ZWKgNgcsGpseIXpB92d7zA/viewform)
 
-Applications will close **March 5th.**
+Applications will close **March 9th.**
 
 ## More information
 
