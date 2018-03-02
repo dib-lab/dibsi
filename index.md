@@ -21,7 +21,10 @@ applications from international students.**
 [Read more...](ATTENDEES.html)
 
 The two week workshop will cost approximately $850, and room & board
-will be approximately $450/week for non-local attendees.
+will be approximately $970 total for non-local attendees (excluding
+lunch).
+
+Please also see [Frequently Asked Questions](https://hackmd.io/s/HkdE1IPuG).
 
 ![DIBSI overview](images/overview-bubbles.png)
 

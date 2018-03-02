@@ -9,6 +9,8 @@ July 2 - July 14, 2018
 
 Applications will close March 9th.
 
+Please also see [Frequently Asked Questions](https://hackmd.io/s/HkdE1IPuG).
+
 -----
 
 This intensive two week summer course will introduce attendees with a
