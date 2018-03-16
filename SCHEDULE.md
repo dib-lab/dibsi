@@ -1,9 +1,9 @@
-# ANGUS schedule, approximate:
+# 2018 ANGUS schedule, approximate:
 
 Note, lunch is not included in housing plan and breakfast/dinner is not
 included unless you are signed up for housing.
 
-## First week - July 2nd - July 6th
+## First week - July 2nd - July 6th, 2018
 
 Monday 7/2:
 * (plan to start at 1:30pm)
