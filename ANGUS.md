@@ -7,7 +7,7 @@ July 2 - July 14, 2018
 
 ### [Applications are open!](https://docs.google.com/forms/d/e/1FAIpQLSeuXw5aX6NUGdzb4NnhQi3CLEMIxHr_vvVZFB762fCJkkkYGA/viewform)
 
-Applications will close March 9th.
+Applications will be accepted on a rolling basis until the workshop is full!
 
 Please also see [Frequently Asked Questions](https://hackmd.io/s/HkdE1IPuG).
 
@@ -77,14 +77,7 @@ There are now almost 300 alumni of the first 8 years!
 
 ### [Applications are open!](https://docs.google.com/forms/d/e/1FAIpQLSeuXw5aX6NUGdzb4NnhQi3CLEMIxHr_vvVZFB762fCJkkkYGA/viewform)
 
-Applications will close March 9th, and we will inform you of acceptance by
-the end of the day, March 16th.
-
-Note that applications are *not* accepted first come/first serve, and
-applicants are chosen to create a balanced group of students, so there
-are no "right answers"; please just give us as much information as you
-can! We are particularly happy to accept people with no previous
-computational experience of any kind.
+Applications will be accepted on a rolling basis until the workshop is full!
 
 ----
 
