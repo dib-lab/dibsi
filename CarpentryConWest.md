@@ -13,13 +13,18 @@ Carpentry Con will run from Friday evening through Sunday morning in sunny Davis
 - An introduction to **Binder** as an instructional tool and a hackyfest to *binderize* repositories 
 - Unconference style activities proposed by attendees
 
+## Contibute your ideas!
 
-## Unconference
+Is there a specific issue or problem you want to tackle with your fellow Carpenters? Do you have a project or idea in the works that needs support or collaborators? We’re happy to facilitate! 
 
-Want to organize a meet-up or activity? We’re happy to facilitate! Stay-tuned to links to contribute your ideas.
+If you would like to propose an activity for Carpentry Con to run concurrently with other sessions, open an issue :point_up:.
 
 ## Cost
 
 Registration is $50.
 
 Housing is available, which includes breakfast and dinner (but not lunch). If you’re coming from afar, you’ll need to register *soon* to guarantee on-campus housing, which is an unbeatable deal and includes breakfast and dinner. 
+
+## Code of Conduct
+
+All contributions are expected to follow the Carpentries' [code of conduct](https://software-carpentry.org/conduct/).
