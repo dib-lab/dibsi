@@ -2,7 +2,7 @@
 
 Join us for CarpentryCon West! We’ve got housing and space for Carpentries folks of all stripes — from new fans to veteran community-members, from all disciplines, near and far.  
 
-## When: Friday, June 29 - Sunday July 1, 2018
+## When: Friday, June 29 - Sunday, July 1, 2018
 Carpentry Con will run from Friday evening through Sunday morning in sunny Davis, California. 
 
 ## What to expect
