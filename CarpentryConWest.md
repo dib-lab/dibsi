@@ -1,9 +1,6 @@
 # CarpentryCon West 2018
 
-Join us for CarpentryCon West! We’ve got housing and space for Carpentries folks of all stripes — from new fans to veteran community-members, from all disciplines, near and far.  
-
-## When: Friday, June 29 - Sunday, July 1, 2018
-Carpentry Con will run from Friday evening through Sunday morning in sunny Davis, California. 
+We’re inviting Carpentries folks of all stripes — from new fans to veteran community-members, from all disciplines, near and far — to join us for CarpentryCon West! We’ve got housing and space for [DIBSI 2018](http://ivory.idyll.org/dibsi/), our annual bioinformatics summer institute, so we’ve set aside **Friday evening through Sunday morning, June 29-July 1**, for a Carpentries gathering in sunny Davis, California. Things you can expect to find include:
 
 ## What to expect
 - Lots of social time with a small, friendly Carpentries community!
@@ -12,12 +9,15 @@ Carpentry Con will run from Friday evening through Sunday morning in sunny Davis
 - Discussions about our new **Spanish curriculum**
 - An introduction to **Binder** as an instructional tool and a hackyfest to *binderize* repositories 
 - On-boarding and **mentorship** opportunities to help new and experienced instructors connect and become familiar with Carpentries curriculum
+- **Check-out opportunities** for new instructors! Attendance will be counted as your Discussion session requirement, and we will also offer Demo opportunities for anyone who needs it!
 - **Un-conference** style activities proposed by attendees
+
+It’s also worth noting that we still have room at our Carpentries Instructor Training (with Anelda and Sher!) on June 25-26, and will be running a variety of Carpentries workshops on June 27-28. See [DIBSI 2018](http://ivory.idyll.org/dibsi/) for more details!
+
 
 ## Contibute your ideas!
 
 Want to organize a meet-up or activity? We’re happy to facilitate! File an issue in our planning repo: [https://github.com/dib-lab/CarpentryConWest18](https://github.com/dib-lab/CarpentryConWest18)! Or, contact us at dibsi.training@gmail.com. We can help to arrange space and connect you with collaborators to start the planning process.
-
 
 ## How to sign up!
 
