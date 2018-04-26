@@ -28,8 +28,10 @@ Please register by May 15th to guarantee your place at DIBSI West Coast Carpentr
 **Local registration (no housing needed)** is here: 
 https://registration.genomecenter.ucdavis.edu/events/WCCC_DIBSI_2018/
 
-**Out-of-town registration (includes housing)** is here;
+**Out-of-town registration (includes housing)**\* is here;
 https://registration.genomecenter.ucdavis.edu/events/WCCC_with_Housing_DIBSI_2018/
+
+\* If you've already registered for another DIBSI housing block -- Week 1 or the ANGUS 2-week workshop -- please contact dibsi.training@gmail.com to request a registration link that accounts for overlap between the housing reservation blocks.
 
 ## Additional needs
 
