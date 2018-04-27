@@ -4,7 +4,7 @@
 
 June 25-26, 2018.
 
-Instructors: TBD.
+Instructors: Anelda van der Walt and SherAaron Hurt
 
 Local organizer: Karen Word.
 
