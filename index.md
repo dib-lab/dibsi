@@ -52,7 +52,7 @@ from June 25 to June 26.
 
 ### [CarpentryCon West](CarpentryConWest.html)
 
-Since you're here, join us at CarpentryCon West! We’re inviting Carpentries folks of all stripes — from new fans to veteran community-members, from all disciplines, near and far — to join us from Friday evening through Sunday morning, June 29-July 1, in sunny Davis, California. Read more [here]((CarpentryConWest.html)).
+Since you're here, join us at CarpentryCon West! We’re inviting Carpentries folks of all stripes — from new fans to veteran community-members, from all disciplines, near and far — to join us from Friday evening through Sunday morning, June 29-July 1, in sunny Davis, California. Read more [here](CarpentryConWest.html).
 
 ### Are you interested in joining us as a TA?
 
