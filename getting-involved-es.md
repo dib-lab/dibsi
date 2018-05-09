@@ -35,7 +35,7 @@ under an open license (generally CC-BY).
 
 We will provide digital badges acknowledging your roles!
 
-## [Indicate interest here!](https://docs.google.com/forms/d/e/1FAIpQLSdrIV5owdGC8G3p1WvKvBb2EKYx948FCLNc5pekQjH83DYibg/viewform)
+## [Indicate interest here!](https://goo.gl/forms/3tHz3HDzmZTbvetx2)
 
 ----
 
