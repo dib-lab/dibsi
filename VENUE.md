@@ -118,8 +118,18 @@ social events.  California is in general LGBTQ-friendly as well.
 
 Please inquire if you want to stay on campus with a partner or your
 family.  Note that there are some hotels that have family-suitable
-suites. We can also point you towards some local summer programs for
-children that offer spots on a week-by-week basis.
+suites. 
+
+Summer camps and programs for kids often fill quickly in Davis, but there are many
+great offerings around! The 
+[Davis Enterprise](https://www.davisenterprise.com/features/a-world-of-discovery-awaits-this-summer-4/) 
+has a good run-down of many local programs. Two more that are not in there
+are the preschool camp at 
+[Redbud Montessori](http://www.redbudmontessori.org/summercamp2018.html)
+and the (often full but worth a try)
+[Aggie Camps](https://cru.ucdavis.edu/content/81-summer-camps-and-classes-.htm)
+on the UC Davis campus. Please get in touch if you
+have questions or need further recommendations! 
 
 ## Special requirements
 
