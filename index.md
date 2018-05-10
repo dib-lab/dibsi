@@ -54,7 +54,7 @@ from June 25 to June 26.
 
 We will be teach a few 2-day workshops on June 27-28. Stay two tune for details. 
 
-We are currently 4 instructors and 4 helpers to teach workshops using the Software Carpentry Shell, Git, and R lessons. If you are interested - see our
+We are currently seeking 4 instructors and 4 helpers to teach workshops using the Software Carpentry Shell, Git, and R lessons. If you are interested - see our
 [getting involved in Spanish workshops](getting-involved-es.html) page! (We hope to recruit local instructors, but we will cover travel, room and board.)
 
 ### [CarpentryCon West](CarpentryConWest.html)
