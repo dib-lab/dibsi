@@ -50,11 +50,18 @@ from June 25 to June 26.
 * Hands-on training in good pedagogical practice!
 * Become a certified Software/Data Carpentry instructor!
 
+### CarpentryWorkshops!
+
+We will be teach a few 2-day workshops on June 27-28. Stay two tune for details. 
+
+We are currently seeking 4 instructors and 4 helpers to teach workshops using the Software Carpentry Shell, Git, and R lessons. If you are interested - see our
+[getting involved in Spanish workshops](getting-involved-es.html) page! (We hope to recruit local instructors, but we will cover travel, room and board.)
+
 ### [CarpentryCon West](CarpentryConWest.html)
 
 Since you're here, join us at CarpentryCon West! We’re inviting Carpentries folks of all stripes — from new fans to veteran community-members, from all disciplines, near and far — to join us from Friday evening through Sunday morning, June 29-July 1, in sunny Davis, California. Read more [here](CarpentryConWest.html).
 
-### Are you interested in joining us as a TA?
+### Are you interested in joining us as a TA or an instructor?
 
 We are looking for people to join us - see our
 [getting involved](getting-involved.html) page! (We will cover travel,
