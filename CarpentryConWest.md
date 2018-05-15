@@ -21,7 +21,7 @@ We’re inviting Carpentries folks of all stripes — from new fans to veteran c
 It’s also worth noting that we still have room at our Carpentries Instructor Training (with Anelda and Sher!) on June 25-26, and will be running a variety of Carpentries workshops on June 27-28. See [DIBSI 2018](http://ivory.idyll.org/dibsi/) for more details!
 
 
-## Contibute your ideas!
+## Contribute your ideas!
 
 Want to organize a meet-up or activity? We’re happy to facilitate! File an issue in our planning repo: [https://github.com/dib-lab/CarpentryConWest18](https://github.com/dib-lab/CarpentryConWest18)! Or, contact us at dibsi.training@gmail.com. We can help to arrange space and connect you with collaborators to start the planning process.
 
