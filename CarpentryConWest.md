@@ -1,6 +1,6 @@
 # CarpentryCon West 2018
 
-_Note: If you are looking for the international CarpentryCon event taking place in Dublin on 30 May - 1 June, 2018, please visit http://www.carpentrycon.org/._
+_Note: If you are looking for the international CarpentryCon event taking place in Dublin on 30 May - 1 June, 2018, please visit [carpentrycon.org](http://www.carpentrycon.org/)._
 
 ## You're invited!
 
@@ -23,7 +23,7 @@ It’s also worth noting that we still have room at our Carpentries Instructor T
 
 ## Contribute your ideas!
 
-Want to organize a meet-up or activity? We’re happy to facilitate! File an issue in our planning repo: [https://github.com/dib-lab/CarpentryConWest18](https://github.com/dib-lab/CarpentryConWest18)! Or, contact us at dibsi.training@gmail.com. We can help to arrange space and connect you with collaborators to start the planning process.
+Want to organize a meet-up or activity? We’re happy to facilitate! File an issue in our planning repo: [https://github.com/dib-lab/CarpentryConWest18](https://github.com/dib-lab/CarpentryConWest18)! Or, contact us at [dibsi.training@gmail.com](mailto:dibsi.training@gmail.com). We can help to arrange space and connect you with collaborators to start the planning process.
 
 ## How to sign up!
 
@@ -32,12 +32,12 @@ Registration is $50. Housing is available from 6/29-7/2 for $225, which includes
 Please register by May 15th to guarantee your place at DIBSI West Coast Carpentry Con. If you’re coming from afar, you’ll need to register *soon* to obtain on-campus housing, which includes breakfast and dinner, as these spaces are limited.
 
 **Local registration (no housing needed)** is here: 
-https://registration.genomecenter.ucdavis.edu/events/WCCC_DIBSI_2018/
+[Local registration link, no housing](https://registration.genomecenter.ucdavis.edu/events/WCCC_DIBSI_2018/)
 
 **Out-of-town registration (includes housing)**\* is here;
-https://registration.genomecenter.ucdavis.edu/events/WCCC_with_Housing_DIBSI_2018/
+[Out-of-town registration link, housing](https://registration.genomecenter.ucdavis.edu/events/WCCC_with_Housing_DIBSI_2018/)
 
-\* If you've already registered for another DIBSI housing block -- Week 1 or the ANGUS 2-week workshop -- please contact dibsi.training@gmail.com to request a registration link that accounts for overlap between the housing reservation blocks.
+\* If you've already registered for another DIBSI housing block -- Week 1 or the ANGUS 2-week workshop -- please contact [dibsi.training@gmail.com](mailto:dibsi.training@gmail.com) to request a registration link that accounts for overlap between the housing reservation blocks.
 
 ## Additional needs
 
