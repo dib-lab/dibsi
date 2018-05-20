@@ -8,13 +8,13 @@ included unless you are signed up for housing.
 Monday 7/2:
 * (plan to start at 1:30pm)
 * 1:30-4pm - welcome & getting started with Jetstream - Valley Hall.
-* 7:30-9pm: poster session + reception
+* 7-9pm: poster session + reception
 
 Tuesday:
 * morning speaker
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch break (lunch on your own)
-* 1:15-5:30pm - lab/lecture/instruction
+* 1:15-5pm - lab/lecture/instruction
 * NO evening session
 
 Wednesday 7/4:
@@ -25,15 +25,15 @@ Wednesday 7/4:
 Thursday:
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch (lunch on your own)
-* 1:15-5:30pm - lab/lecture/instruction
-* 5:30-7:30pm - dinner/break
-* 7:30-9pm - evening lab
+* 1:15-5pm - lab/lecture/instruction
+* 5-7pm - dinner/break
+* 7-9pm - evening lab
 
 Friday:
 * 9am: morning lecture
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch (lunch on your own)
-* 1:15-5:30pm - lab/lecture/instruction
+* 1:15-5pm - lab/lecture/instruction
 * NO evening session
 
 Saturday and Sunday: free time!
@@ -47,15 +47,15 @@ Monday
 * 9am: morning lecture.
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch (lunch on your own)
-* 1:15-5:30pm - lab/lecture/instruction
-* 5:30pm-7:30p - dinner/break
-* 7:30pm-9pm - evening lab
+* 1:15-5pm - lab/lecture/instruction
+* 5pm-7p - dinner/break
+* 7pm-9pm - evening lab
 
 Tuesday:
 * morning speaker
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch break (lunch on your own)
-* 1:15-5:30pm - lab/lecture/instruction
+* 1:15-5pm - lab/lecture/instruction
 * NO evening instruction
 
 Wednesday:
@@ -69,15 +69,15 @@ Thursday:
 * 9am: morning lecture.
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch (lunch on your own)
-* 1:15-5:30pm - lab/lecture/instruction
-* 5:30-7:30 - dinner
-* 7:30pm-9pm - evening lab
+* 1:15-5pm - lab/lecture/instruction
+* 5-7pm - dinner
+* 7pm-9pm - evening lab
 
 Friday:
 * 9am: morning lecture.
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch (lunch on your own)
-* 1:15-5:30pm - lab/lecture/instruction
+* 1:15-5pm - lab/lecture/instruction
 * NO evening instruction
 
 Saturday - 
