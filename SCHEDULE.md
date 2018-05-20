@@ -24,8 +24,7 @@ Wednesday 7/4:
 Thursday:
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch (lunch on your own)
-* 1:15-3pm - lab/lecture/instruction
-* 3pm-5:30pm - lab/lecture/instructions
+* 1:15-5:30pm - lab/lecture/instruction
 * 5:30-7:30pm - dinner/break
 * 7:30-9pm - evening instructions
 
