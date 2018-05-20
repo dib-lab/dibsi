@@ -15,6 +15,7 @@ Tuesday:
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch break (lunch on your own)
 * 1:15-5:30pm - lab/lecture/instruction
+* NO evening session
 
 Wednesday 7/4:
 * morning speaker: TBD
@@ -26,13 +27,14 @@ Thursday:
 * noon-1:15 - lunch (lunch on your own)
 * 1:15-5:30pm - lab/lecture/instruction
 * 5:30-7:30pm - dinner/break
-* 7:30-9pm - evening instructions
+* 7:30-9pm - evening lab
 
 Friday:
 * 9am: morning lecture
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch (lunch on your own)
 * 1:15-5:30pm - lab/lecture/instruction
+* NO evening session
 
 Saturday and Sunday: free time!
 
@@ -47,15 +49,14 @@ Monday
 * noon-1:15 - lunch (lunch on your own)
 * 1:15-5:30pm - lab/lecture/instruction
 * 5:30pm-7:30p - dinner/break
-* 7:30pm-9pm - evening instructions
+* 7:30pm-9pm - evening lab
 
 Tuesday:
 * morning speaker
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch break (lunch on your own)
 * 1:15-5:30pm - lab/lecture/instruction
-* 5:30-7:30 - dinner
-* 7:30pm-9pm - lab/lecture/instruction
+* NO evening instruction
 
 Wednesday:
 * 9am: morning lecture.
@@ -70,13 +71,14 @@ Thursday:
 * noon-1:15 - lunch (lunch on your own)
 * 1:15-5:30pm - lab/lecture/instruction
 * 5:30-7:30 - dinner
-* 7:30pm-9pm - lab/lecture/instruction
+* 7:30pm-9pm - evening lab
 
 Friday:
 * 9am: morning lecture.
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch (lunch on your own)
 * 1:15-5:30pm - lab/lecture/instruction
+* NO evening instruction
 
 Saturday - 
 
