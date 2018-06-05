@@ -52,10 +52,34 @@ from June 25 to June 26.
 
 ### CarpentryWorkshops!
 
-We will be teach a few 2-day workshops on June 27-28. Stay two tune for details. 
+We will be teaching the following 2-day workshops on June 27-28. Register now to secure your seat!
 
-We are currently seeking 4 instructors and 4 helpers to teach workshops using the Software Carpentry Shell, Git, and R lessons. If you are interested - see our
-[getting involved in Spanish workshops](getting-involved-es.html) page! (We hope to recruit local instructors, but we will cover travel, room and board.)
+#### Data Carpentry Geospatial Workshop! 
+
+Website: https://dib-lab.github.io/2018-06-27-DIBSI-Geospatial/
+Registration: https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_Geospatial_Workshop/
+
+#### Data Carpentry Social Sciences Workshop!
+Website: https://dib-lab.github.io/2018-06-27-DIBSI-SocialSci/ 
+Registration: https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SocSci_Workshop/
+
+#### Spanish Software Carpentry Workshop (Unix/Git/R)!
+Website: https://dib-lab.github.io/2018-06-27-SpanishSWC/ 
+Registration: https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SWC_Spanish_Workshop/
+
+#### English Software Carpentry Workshop (Unix/Git/R)!
+Website: https://dib-lab.github.io/2018-06-27-DIBSI-SWC/ 
+Registration: https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SWC_Workshop/
+
+#### Data Carpentry Genomics Workshop!
+Website: https://dib-lab.github.io/2018-06-27-DIBSI-Genomics/ 
+Registration: https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_Genomics_Workshop/
+
+
+
+Want to work on your skills in these areas but worried that you might know a little too much for an entry-level workshop? 
+Join us as a helper! Helpers benefit from learning new tips and tricks, meeting new people to talk data with, 
+plus they receive TONS of appreciation from everyone involved in a workshop! Drop us a line at dibsi.training@gmail.com if you'd like to join in!
 
 ### [CarpentryCon West](CarpentryConWest.html)
 
