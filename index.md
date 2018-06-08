@@ -50,31 +50,35 @@ from June 25 to June 26.
 * Hands-on training in good pedagogical practice!
 * Become a certified Software/Data Carpentry instructor!
 
-### CarpentryWorkshops!
+### Carpentries Workshops!
 
 We will be teaching the following 2-day workshops on June 27-28. Register now to secure your seat!
 
-#### Data Carpentry Geospatial Workshop! 
+##### Data Carpentry Geospatial Workshop! 
 
-Website: https://dib-lab.github.io/2018-06-27-DIBSI-Geospatial/
-Registration: https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_Geospatial_Workshop/
+Website: [https://dib-lab.github.io/2018-06-27-DIBSI-Geospatial/](https://dib-lab.github.io/2018-06-27-DIBSI-Geospatial)
 
-#### Data Carpentry Social Sciences Workshop!
-Website: https://dib-lab.github.io/2018-06-27-DIBSI-SocialSci/ 
-Registration: https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SocSci_Workshop/
+Registration: [https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_Geospatial_Workshop/](https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_Geospatial_Workshop)
 
-#### Spanish Software Carpentry Workshop (Unix/Git/R)!
-Website: https://dib-lab.github.io/2018-06-27-SpanishSWC/ 
-Registration: https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SWC_Spanish_Workshop/
+##### Data Carpentry Social Sciences Workshop!
+Website: [https://dib-lab.github.io/2018-06-27-DIBSI-SocialSci/ ](https://dib-lab.github.io/2018-06-27-DIBSI-SocialSci)
 
-#### English Software Carpentry Workshop (Unix/Git/R)!
-Website: https://dib-lab.github.io/2018-06-27-DIBSI-SWC/ 
-Registration: https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SWC_Workshop/
+Registration: [https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SocSci_Workshop/](https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SocSci_Workshop)
 
-#### Data Carpentry Genomics Workshop!
-Website: https://dib-lab.github.io/2018-06-27-DIBSI-Genomics/ 
-Registration: https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_Genomics_Workshop/
+##### Spanish Software Carpentry Workshop (Unix/Git/R)!
+Website: [https://dib-lab.github.io/2018-06-27-SpanishSWC/](https://dib-lab.github.io/2018-06-27-SpanishSWC/)
 
+Registration: [https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SWC_Spanish_Workshop/](https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SWC_Spanish_Workshop)
+
+##### English Software Carpentry Workshop (Unix/Git/R)!
+Website: [https://dib-lab.github.io/2018-06-27-DIBSI-SWC/](https://dib-lab.github.io/2018-06-27-DIBSI-SWC) 
+
+Registration: [https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SWC_Workshop/](https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SWC_Workshop)
+
+##### Data Carpentry Genomics Workshop!
+Website: [https://dib-lab.github.io/2018-06-27-DIBSI-Genomics/](https://dib-lab.github.io/2018-06-27-DIBSI-Genomics)
+
+Registration: [https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_Genomics_Workshop/](https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_Genomics_Workshop)
 
 
 Want to work on your skills in these areas but worried that you might know a little too much for an entry-level workshop? 
