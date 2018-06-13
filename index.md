@@ -8,7 +8,7 @@ computational training events at the University of California, Davis
 workshop for biologists to learn basic bioinformatics and cloud
 computing.  We are also planning a Software Carpentry Instructor
 Training, several Software and Data Carpentry workshops, and a
-West Coast CarpentryCon.
+regional CarpentryConnect conference.
 
 All of this will be taking place at the UC Davis School of Veterinary
 Medicine, on the main campus of UC Davis (in Davis,
@@ -85,9 +85,9 @@ Want to work on your skills in these areas but worried that you might know a lit
 Join us as a helper! Helpers benefit from learning new tips and tricks, meeting new people to talk data with, 
 plus they receive TONS of appreciation from everyone involved in a workshop! Drop us a line at dibsi.training@gmail.com if you'd like to join in!
 
-### [CarpentryCon West](CarpentryConWest.html)
+### [CarpentryConnect Davis](CarpentryConWest.html)
 
-Since you're here, join us at CarpentryCon West! We’re inviting Carpentries folks of all stripes — from new fans to veteran community-members, from all disciplines, near and far — to join us from Friday evening through Sunday morning, June 29-July 1, in sunny Davis, California. Read more [here](CarpentryConWest.html).
+Since you're here, join us at CarpentryConnect Davis! We’re inviting Carpentries folks of all stripes — from new fans to veteran community-members, from all disciplines, near and far — to join us from Friday evening through Sunday morning, June 29-July 1, in sunny Davis, California. Read more [here](CarpentryConWest.html).
 
 ### Are you interested in joining us as a TA or an instructor?
 
