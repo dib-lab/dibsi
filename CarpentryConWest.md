@@ -10,7 +10,7 @@ May - 1 June, 2018, please visit
 
 We’re inviting Carpentries folks of all stripes — from new fans to veteran community-members, from all disciplines, near and far — to join us for CarpentryConnect Davis! We’ve got housing and space for [DIBSI 2018](http://ivory.idyll.org/dibsi/), our annual bioinformatics summer institute, so we’ve set aside **Friday evening through Sunday morning, June 29-July 1**, for a Carpentries gathering in sunny Davis, California. 
 
-![image](./images/carpentryconwest.png)
+![image](./images/CarpentryConnect.png)
 
 ## What to expect
 - Lots of social time with a small, friendly Carpentries community!
