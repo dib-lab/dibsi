@@ -85,9 +85,9 @@ Want to work on your skills in these areas but worried that you might know a lit
 Join us as a helper! Helpers benefit from learning new tips and tricks, meeting new people to talk data with, 
 plus they receive TONS of appreciation from everyone involved in a workshop! Drop us a line at dibsi.training@gmail.com if you'd like to join in!
 
-### [CarpentryCon West](CarpentryConWest.html)
+### [CarpentryCon West](CarpentryConnectDavis.html)
 
-Since you're here, join us at CarpentryCon West! We’re inviting Carpentries folks of all stripes — from new fans to veteran community-members, from all disciplines, near and far — to join us from Friday evening through Sunday morning, June 29-July 1, in sunny Davis, California. Read more [here](CarpentryConWest.html).
+Since you're here, join us at CarpentryConnect Davis! We’re inviting Carpentries folks of all stripes — from new fans to veteran community-members, from all disciplines, near and far — to join us from Friday evening through Sunday morning, June 29-July 1, in sunny Davis, California. Read more [here](CarpentryConnectDavis.html).
 
 ### Are you interested in joining us as a TA or an instructor?
 
@@ -97,8 +97,7 @@ room and board.)
 
 ## Other information
 
-Stay tuned for more information about the Carpentry workshops and West
-Coast Carpentry-Con!
+Stay tuned for more information about the Carpentry workshops and CarpentryConnectDavis!
 
 Keep up to date by [joining the dibsi-announce mailing list](https://groups.io/g/dibsi-announce/join).
 
