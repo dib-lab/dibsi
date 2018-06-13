@@ -1,10 +1,14 @@
-# CarpentryCon West 2018
+# CarpentryConnect Davis 2018
 
-_Note: If you are looking for the international CarpentryCon event taking place in Dublin on 30 May - 1 June, 2018, please visit [carpentrycon.org](http://www.carpentrycon.org/)._
+_Note: This is a small regional Carpentry conference, just rebranded
+from CarpentryCon West to CarpentryConnect Davis; if you are looking
+for the international CarpentryCon event taking place in Dublin on 30
+May - 1 June, 2018, please visit
+[carpentrycon.org](http://www.carpentrycon.org/)._
 
 ## You're invited!
 
-We’re inviting Carpentries folks of all stripes — from new fans to veteran community-members, from all disciplines, near and far — to join us for CarpentryCon West! We’ve got housing and space for [DIBSI 2018](http://ivory.idyll.org/dibsi/), our annual bioinformatics summer institute, so we’ve set aside **Friday evening through Sunday morning, June 29-July 1**, for a Carpentries gathering in sunny Davis, California. 
+We’re inviting Carpentries folks of all stripes — from new fans to veteran community-members, from all disciplines, near and far — to join us for CarpentryConnect Davis! We’ve got housing and space for [DIBSI 2018](http://ivory.idyll.org/dibsi/), our annual bioinformatics summer institute, so we’ve set aside **Friday evening through Sunday morning, June 29-July 1**, for a Carpentries gathering in sunny Davis, California. 
 
 ![image](./images/carpentryconwest.png)
 
