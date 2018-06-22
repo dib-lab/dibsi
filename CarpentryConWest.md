@@ -12,17 +12,49 @@ We’re inviting Carpentries folks of all stripes — from new fans to veteran c
 
 ![image](./images/CarpentryConnect.png)
 
-## What to expect
-- Lots of social time with a small, friendly Carpentries community!
-- Keynote address from [Anelda van der Walt](https://twitter.com/aneldavdw) on  Carpentries communities in Africa
-- Other keynotes (TBD!) 
-- Discussions about our new **Spanish curriculum**
-- An introduction to **Binder** as an instructional tool and a hackyfest to *binderize* repositories 
-- On-boarding and **mentorship** opportunities to help new and experienced instructors connect and become familiar with Carpentries curriculum
-- **Check-out opportunities** for new instructors! Attendance will be counted as your Discussion session requirement, and we will also offer Demo opportunities for anyone who needs it!
-- **Un-conference** style activities proposed by attendees
+## Our Schedule!
 
-It’s also worth noting that we still have room at our Carpentries Instructor Training (with Anelda and Sher!) on June 25-26, and will be running a variety of Carpentries workshops on June 27-28. See [DIBSI 2018](http://ivory.idyll.org/dibsi/) for more details!
+All events will take place in [Gladys Valley Hall](https://goo.gl/maps/W3P4kKYRAem) on the UC Davis Veterinary School campus
+
+**Friday June 29th**
+
+*Earlier TBD: we’ll be offering in-person Instructor Checkout sessions — if you’re not already attending our Instructor Training event at DIBSI, get in touch to let us know if you’d like to be involved!*
+
+7PM Opening Keynote: Tracy Teal. Come hear about the latest developments in the Carpentries community!
+
+8PM Ice cream! (Non-dairy? [Let us know](mailto:dibsi.training@gmail.com) so we can be sure we have enough for you!)
+
+Evening: on and off campus gatherings!
+
+**Saturday June 30th**
+
+(Optional) 9AM: Intro to Jetstream/XSEDE with Titus!
+
+10AM Coffee
+
+10:15 Community Building with Anelda Van Der Walt
+
+11:45 Lunch! (We’ll provide)
+
+1 PM Binder workshop / breakout sessions
+
+2:30 Coffee
+
+3 PM Breakout sessions / planning for Sunday
+
+4 PM Talk: Binder and Jupyter notebooks
+
+Evening: on and off-campus gatherings!
+
+**Sunday July 1**
+
+10AM Coffee
+
+10:15 Breakout sessions
+
+12PM Lunch! (We’ll provide)
+
+Afternoon: Social time! Hang around or go adventuring.
 
 
 ## Contribute your ideas!
@@ -31,17 +63,12 @@ Want to organize a meet-up or activity? We’re happy to facilitate! File an iss
 
 ## How to sign up!
 
-Registration is $50. Housing is available from 6/29-7/2 for $225, which includes breakfast and dinner (but not lunch).
+Registration is $50. Housing is no longer available for this event, but there are lots of good hotel options in Davis -- guests frequently stay at the Best Western Palm Court or Aggie Inn downtown.
 
-Please register by May 15th to guarantee your place at DIBSI West Coast Carpentry Con. If you’re coming from afar, you’ll need to register *soon* to obtain on-campus housing, which includes breakfast and dinner, as these spaces are limited.
-
-**Local registration (no housing needed)** is here: 
+**Advance registration (no housing)** is here: 
 [Local registration link, no housing](https://registration.genomecenter.ucdavis.edu/events/WCCC_DIBSI_2018/)
 
-**Out-of-town registration (includes housing)**\* is here;
-[Out-of-town registration link, housing](https://registration.genomecenter.ucdavis.edu/events/WCCC_with_Housing_DIBSI_2018/)
-
-\* If you've already registered for another DIBSI housing block -- Week 1 or the ANGUS 2-week workshop -- please contact [dibsi.training@gmail.com](mailto:dibsi.training@gmail.com) to request a registration link that accounts for overlap between the housing reservation blocks.
+Not sure about the $50 fee? Just want to come for a session or two? Come on by and make yourself a name badge… we won’t turn anyone away for this event. But if you can, please do consider pitching in a few bucks for lunch and ice cream.
 
 ## Additional needs
 
