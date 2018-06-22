@@ -65,7 +65,7 @@ Website: [https://dib-lab.github.io/2018-06-27-DIBSI-SocialSci/ ](https://dib-la
 
 Registration: [https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SocSci_Workshop/](https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SocSci_Workshop)
 
-##### Spanish Software Carpentry Workshop (Unix/Git/R)!
+##### (Cancelled) Spanish Software Carpentry Workshop (Unix/Git/R)!
 Website: [https://dib-lab.github.io/2018-06-27-SpanishSWC/](https://dib-lab.github.io/2018-06-27-SpanishSWC/)
 
 Registration: [https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SWC_Spanish_Workshop/](https://registration.genomecenter.ucdavis.edu/events/DIBSI_2018_SWC_Spanish_Workshop)
