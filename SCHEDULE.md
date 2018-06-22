@@ -8,7 +8,7 @@ included unless you are signed up for housing.
 Monday 7/2:
 * (plan to start at 1:30pm)
 * 1:30-4pm - welcome & getting started with Jetstream - Valley Hall.
-* 7:30-9pm: poster session
+* 7:30-9pm: ice cream session
 
 Tuesday:
 * morning speaker
@@ -55,7 +55,7 @@ Tuesday:
 * 1:15-3pm - lab/lecture/instruction
 * 3pm-5:30pm - free time
 * 5:30-7:30 - dinner
-* 7:30pm-9pm - lab/lecture/instruction
+* 7:30pm-9pm - lab/lecture/instruction (poster session)
 
 Wednesday:
 * 9am: morning lecture.
