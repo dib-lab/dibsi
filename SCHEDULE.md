@@ -6,9 +6,7 @@ included unless you are signed up for housing.
 ## First week - July 2nd - July 6th, 2018
 
 Monday 7/2:
-* (plan to start at 1:30pm)
-* 1:30-4pm - welcome & getting started with Jetstream - Valley Hall.
-* 7:30-9pm: ice cream session
+* 1:30-5:30pm - welcome & getting started with Jetstream - Valley Hall.
 
 Tuesday:
 * morning speaker
@@ -54,8 +52,8 @@ Tuesday:
 * noon-1:15 - lunch break (lunch on your own)
 * 1:15-3pm - lab/lecture/instruction
 * 3pm-5:30pm - free time
-* 5:30-7:30 - dinner
-* 7:30pm-9pm - lab/lecture/instruction (poster session)
+* 5:30-7:30 - dinner (on your own)
+* 7:30-9pm: posters ice cream session
 
 Wednesday:
 * 9am: morning lecture.
