@@ -12,30 +12,26 @@ Tuesday:
 * morning speaker
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch break (lunch on your own)
-* 1:15-3pm - lab/lecture/instruction
-* 3pm-5:30pm - free time
-* 5:30-7:30pm - dinner
-* 7:30pm-9pm - lab/lecture/instruction
+* 1:15-5:30pm - tutorials
 
 Wednesday 7/4:
-* morning speaker: TBD
-* 9am-noon - lab/lecture/instruction
+* 9am-noon - tutorials
 * BREAK for the day - July 4th activites
 
 Thursday:
-* 9am-noon - lab/lecture/instruction
+* 9am-noon - tutorials
 * noon-1:15 - lunch (lunch on your own)
-* 1:15-5:30pm - lab/lecture/instruction
+* 1:15-5:30pm - tutorials
 
 Friday:
 * 9am: morning lecture
-* 9am-noon - lab/lecture/instruction
+* 10:15-noon - tutorials
 * noon-1:15 - lunch (lunch on your own)
-* 1:15-5:30pm - lab/lecture/instruction
+* 1:15-5:30pm - tutorials
 
 Saturday and Sunday: free time!
 
-We may hold OPTIONAL R and UNIX Command line workshops on Saturday,
+We may hold OPTIONAL R or UNIX Command line workshops on Saturday,
 July 7 and Sunday, July 8th; details TBD.
 
 ## Second week, July 9-July 14.
