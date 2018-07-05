@@ -46,8 +46,7 @@ Tuesday:
 * morning speaker
 * 9am-noon - lab/lecture/instruction
 * noon-1:15 - lunch break (lunch on your own)
-* 1:15-3pm - lab/lecture/instruction
-* 3pm-5:30pm - free time
+* 1:15-5pm - lab/lecture/instruction
 * 5:30-7:30 - dinner (on your own)
 * 7:30-9pm: posters ice cream session
 
