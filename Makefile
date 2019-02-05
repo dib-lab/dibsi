@@ -4,7 +4,8 @@
 all: html
 
 update: clean html
-	rsync -av _build/html/ t@vallista.idyll.org:ivory/dibsi/
+	#rsync -av _build/html/ t@vallista.idyll.org:ivory/dibsi/
+	cd _build/html && s3cmd sync * s3://ivory.idyll.org/dibsi/ -c ~/.s3cfg-tnt -v
 
 update-draft: clean html
 	rsync -av _build/html/ t@teckla.idyll.org:.html/dibsi/

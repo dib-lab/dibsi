@@ -31,10 +31,9 @@ but largely non-overlapping in content.
 
 ## Local attendees and workshop hours
 
-The workshops will start mid-morning (9am) and go until 5pm. A core
-part of these workshops has traditionally been networking and informal
-interactions, which can occur over lunch, at snack times, or out on
-the town in the evenings.
+The workshops will start mid-morning (9am) and potentially run late (with
+events after dinner). A core part of these workshops has traditionally
+been networking and informal interactions.
 
 ## Remote attendance
 
@@ -45,7 +44,7 @@ workshops may have live streams.
 
 In order to enable the most people to come for the lowest price, we
 charge a minimal fee for registration and workshop attendance.  This
-year, since our funding from NIH has lapsed, we are charging $950 for
+year, since our funding from NIH has lapsed, we are charging $850 for
 registration.  Your registration money primarily pays for instructor
 and TA travel, room, and board, as well as lead instructor honoraria.
 

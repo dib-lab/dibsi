@@ -1,4 +1,4 @@
-Welcome to DIBSI 2018!
+Welcome to DIBSI 2019!
 ======================
 
 This is a list of all the pages.
@@ -13,7 +13,6 @@ Contents:
    index
    coc
    ANGUS
-   instructor-training
    getting-involved
    WHO
    VENUE

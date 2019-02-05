@@ -1,6 +1,6 @@
-# Venue information - travel to and from, local entertainment, and transportation.
+# 2017 - Venue information - travel to and from, local entertainment, and transportation.
 
-## Where DIBSI 2019 will happen
+## Where DIBSI will happen
 
 The venue for the Summer Institute is the
 [Valley Hall](http://www.vetmed.ucdavis.edu/Academic_Programs/map/ValleyHall/)
@@ -27,13 +27,25 @@ flight.
 
 On-campus lodging is being arranged through
 [Conference Housing Services](http://confhsg.ucdavis.edu/hostingaconference/rates/).
-We have reserved space, and non-UC Davis attendees are expected to
-stay in housing.  Note, due to space constraints, we cannot guarantee
-single-room lodging for attendees, although in 2017 we were able to
-give everyone a single.
+We have reserved space, and you must register for this through us.
+The on-campus housing will be at
+[Thompson Hall](http://housing.ucdavis.edu/buildings/thompsonhall.asp),
+in the Segundo area.  Note, due to space constraints, we cannot guarantee
+single-room lodging for attendees.
 
-Note, lunch is not included in housing plan and breakfast/dinner is not
-included unless you are signed up for housing.
+Off-campus lodging can be booked at any of our local hotels.  We have
+had good experience with the
+[Hyatt Place](https://ucdavis.place.hyatt.com/en/hotel/home.html), the
+[Aggie Inn](http://www.aggieinn.com/), and the
+[Best Estern Palm Court](https://www.bestwestern.com/en_US/book/hotel-details.05536.html). The
+Hyatt is on campus and is easy walking distance from Valley Hall; most
+other places downtown are a 25-30 minute walk or a 10 minute bike
+ride.
+
+[AirBNB](http://www.airbnb.com) is also a perfectly good alternative!
+
+We suggest staying within the city of Davis, although Williamston,
+Woodland, and West Sacramento are relatively short drives.
 
 ## Travel to and from Davis.
 
@@ -51,7 +63,7 @@ and Amtrak, which arrives in downtown Davis.  While much of downtown
 Davis is walkable, lodging is typically further and we recommend
 using ride sharing or taxi services.
 
-[The Davis Airporter](https://www.davisairporter.com/ and
+[The Davis Airporter](https://www.davisairporter.com/index2.html) and
 [Supershuttle](https://www.supershuttle.com/) can be used for
 transportation to and from airports, but should be reserved well in
 advance.  Ride sharing (e.g. [Lyft](https://www.lyft.com/)) works well
@@ -118,18 +130,7 @@ social events.  California is in general LGBTQ-friendly as well.
 
 Please inquire if you want to stay on campus with a partner or your
 family.  Note that there are some hotels that have family-suitable
-suites. 
-
-Summer camps and programs for kids often fill quickly in Davis, but there are many
-great offerings around! The 
-[Davis Enterprise](https://www.davisenterprise.com/features/a-world-of-discovery-awaits-this-summer-4/) 
-has a good run-down of many local programs. Two more that are not in there
-are the preschool camp at 
-[Redbud Montessori](http://www.redbudmontessori.org/summercamp2018.html)
-and the (often full but worth a try)
-[Aggie Camps](https://cru.ucdavis.edu/content/81-summer-camps-and-classes-.htm)
-on the UC Davis campus. Please get in touch if you
-have questions or need further recommendations! 
+suites.
 
 ## Special requirements
 

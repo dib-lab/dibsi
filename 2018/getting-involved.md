@@ -1,7 +1,7 @@
 # Getting involved
 
 We are seeking teaching assistants for some or all of the [ANGUS](ANGUS.html)
-workshop (July 1-July 13).
+workshop (July 2-July 14).
 
 [Indicate interest here!](https://docs.google.com/forms/d/e/1FAIpQLSdrIV5owdGC8G3p1WvKvBb2EKYx948FCLNc5pekQjH83DYibg/viewform)
 
