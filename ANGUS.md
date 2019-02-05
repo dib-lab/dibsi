@@ -1,84 +1,67 @@
-<img style="float: right; max-width=10%; border-radius: 2px; padding: 2px; border: 1px solid #ddd" src="_static/bird-kite.jpg" width=100>
-# ANGUS: Analyzing High Throughput Sequencing Data
+# ANGUS 2019 advertisement
 
-July 2 - July 14, 2018
+July 1 - July 12, 2019
 
-[2017 materials: http://angus.readthedocs.io/en/2016/](http://angus.readthedocs.io/en/2017/)
+[2018 materials: http://angus.readthedocs.io/en/2018/](http://angus.readthedocs.io/en/2018/)
 
-### [Applications are open!](https://docs.google.com/forms/d/e/1FAIpQLSeuXw5aX6NUGdzb4NnhQi3CLEMIxHr_vvVZFB762fCJkkkYGA/viewform)
+Registration for ANGUS 2019 will open March 4th. To be notified when it opens, please [join the dibsi-announce mailing list](https://groups.io/g/dibsi-announce/join). Please note that in previous years we have been able to accomodate everyone who wants to come!
 
-Applications will be accepted on a rolling basis until the workshop is full!
+Please also see [Frequently Asked Questions for 2019](https://hackmd.io/s/BkjZDqNNV).
 
-Please also see [Frequently Asked Questions](https://hackmd.io/s/HkdE1IPuG).
+This intensive two week summer course introduces attendees with a strong biology background to the practice of analyzing big shotgun sequencing data sets (Illumina, PacBio, and Nanopore). We introduce students to computational thinking and large-scale data analysis on UNIX platforms, and cover genome and transcriptome analysis. We also cover computational topics including R scripting, software installation with bioconda, cloud computing, and building efficient and automated workflows.
 
------
-
-This intensive two week summer course will introduce attendees with a
-strong biology background to the practice of analyzing high-throughput
-sequencing data (Illumina, PacBio, and Nanopore).  The first week will
-introduce students to computational thinking and large-scale data
-analysis on UNIX platforms. The second week will focus on genome and
-transcriptome assembly, transcript quantitation, variant calling, and
-other topics.
-
-No prior programming experience is required, although familiarity with
-some programming concepts will be helpful, and bravery in the face of the
-unknown is necessary.  A year or more of graduate school in a
-biological science is strongly suggested. Faculty, postdocs, and
-research staff are more than welcome, as are researchers from industry.
+**No prior programming experience is required**, although bravery in the face of the unknown is necessary!  A year or more of graduate school in a
+biological science is strongly suggested. Faculty, postdocs, and research staff are more than welcome, as are researchers from industry.
 
 A [draft schedule of hours for this year](SCHEDULE.html) is available.
 
-We plan to run multiple workshops of 20-30 participants each.
+We plan to run multiple independent classrooms of 20-30 participants each. In 2019, we will provide both introductory and intermediate tracks to accomodate all levels of learners.
+
+We strive to provide a welcoming and inclusive environment, and work hard to accomodate learner needs.
 
 ## What will I learn if I attend?
 
-Our goal for these two weeks is to get students to the point where
-they are ready to begin analyzing their own data on a computer
-cluster, and can work with help forums and online tutorials to
-advance their own skills.
+Our goal for these two weeks is to get students to the point where they are ready to begin analyzing their own data on a computer cluster, and can work with help forums and other online resources to advance their own skills.
 
 Students will gain practical experience in:
 
-- Python and bash shell scripting
-- Cloud computing/Amazon EC2
-- Basic software installation on UNIX
-- Installing and running Trinity, BWA, Salmon, SPAdes, ABySS, Prokka and other bioinformatics tools.
+- bash shell and R scripting
+- Cloud computing/Jetstream
+- Installing and running many bioinformatics tools, including BLAST, bwa, samtools, 
 - Querying mappings and evaluating assemblies
-- Materials from previous courses are available at
+- Running workflows in the cloud and evaluating their results
+- Estimating computational resources
+
+Materials from previous courses are available at
   [http://angus.readthedocs.org/](http://angus.readthedocs.org/) under a Creative Commons/full use+reuse license.
 
 You can read a blog post about the 2015 course here:
 [http://ivory.idyll.org/blog/2015-small-batch.html](http://ivory.idyll.org/blog/2015-small-batch.html)
 
-The course fee will be $850 for this workshop.
+The course fee will be $950 for this workshop.
+
+## What do people say about this workshop?
+
+Quotes from previous attendees:
+
+> “I would climb a mountain and share this awesome program with the rest of the world.”
+
+> “We had great teachers and helpers. They made me feel comfortable in making mistakes and learn from them.”
+
+> “You don’t have to be a programmer to use or do computational science, and that is awesome!"
+
+> "I definitely broke through the difficult “starting” barrier, which was what I hoped to do. Now the techniques don’t seem so opaque and intimidating that I can’t work through them on my own.”
+
+> "My entire outlook on computational biology changed. I am much more enthusiastic about continuing to learn and apply computational analyses to my research.”
 
 ## Computer requirements
 
-You will need to bring a computer that can connect to wifi, and you should
-have a modern browser (Google Chrome or Safari or Firefox) installed.  No
-specific operating system is required.
+You will need to bring a computer that can connect to wifi, and you should have a modern browser (Google Chrome or Safari or Firefox) installed.  No specific operating system is required.
 
-We will use [XSEDE Jetstream](https://jetstream-cloud.org/) academic cloud
-computing to execute data analysis for the workshop; all analysis will be
-done remotely.
+We will use the [XSEDE Jetstream](https://jetstream-cloud.org/) academic cloud computing to execute data analysis for the workshop; all analysis will be done remotely.
 
 ## History
 
-This workshop was run at Michigan State University's Kellogg
-Biological Station from 2010 to 2016, with support from the USDA and
-NIH (see [Funders](FUNDERS.html)).  Dr. Brown is the founding course
-director and ran the workshop from 2010-2015; Dr. Staton (UTK) and
-Dr. MacManes (UNH) were the 2016 course directors. In 2017 the course
-moved to UC Davis with Dr. Brown, and we were able to expand to serve
-over 80 learners.
+This workshop was run at Michigan State University's Kellogg Biological Station from 2010 to 2016, with support from the USDA and NIH (see [Funders](FUNDERS.html)).  Dr. Brown is the founding course director and ran the workshop from 2010-2015; Dr. Staton (UTK) and Dr. MacManes (UNH) were the 2016 course directors. In 2017 the course moved to UC Davis with Dr. Brown's lab, and we were able to expand to serve over 70 learners.
 
-There are now almost 300 alumni of the first 8 years!
-
-### [Applications are open!](https://docs.google.com/forms/d/e/1FAIpQLSeuXw5aX6NUGdzb4NnhQi3CLEMIxHr_vvVZFB762fCJkkkYGA/viewform)
-
-Applications will be accepted on a rolling basis until the workshop is full!
-
-----
-
-If you have questions, please contact us at via e-mail at [dibsi.training@gmail.com](mailto:dibsi.training@gmail.com).
+There are now over 350 alumni of the first 9 years!
