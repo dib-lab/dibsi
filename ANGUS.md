@@ -4,6 +4,9 @@ July 1 - July 13, 2019
 
 [2018 materials: http://angus.readthedocs.io/en/2018/](http://angus.readthedocs.io/en/2018/)
 
+This workshop is organized and hosted by Dr. C. Titus Brown and
+Dr. Karen Word.
+
 **Lead instructors for 2019:**
 
 [Mike Lee](https://twitter.com/astrobiomike)
