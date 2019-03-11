@@ -11,7 +11,8 @@ Dr. Karen Word. Contact us at [dibsi.training@gmail.com](mailto:dibsi.training@g
 
 * [Mike Lee](https://twitter.com/astrobiomike)
 * [Sateesh Peri](https://twitter.com/perisateesh)
-* [Marian Schmidt](https://twitter.com/micro_marian?lang=en)
+* [Taylor Reiter](https://twitter.com/ReiterTaylor)
+* [Marian Schmidt](https://twitter.com/micro_marian)
 
 Registration for ANGUS 2019 will open March 3th. To be notified when it opens, please [join the dibsi-announce mailing list](https://groups.io/g/dibsi-announce/join). Please note that in previous years we have been able to accomodate everyone who wants to come!
 
