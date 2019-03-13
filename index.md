@@ -45,6 +45,8 @@ Please also see [Frequently Asked Questions](https://hackmd.io/s/BkjZDqNNV).
 
 #### [Take a look at the 2018 materials!](https://angus.readthedocs.io/en/2018/)
 
+### [Registration is now open!](https://registration.genomecenter.ucdavis.edu/events/2019_angus/register/)
+
 ### Are you interested in joining us as a TA or an instructor?
 
 We are looking for people to join us - see our

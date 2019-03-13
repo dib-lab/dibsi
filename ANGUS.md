@@ -14,14 +14,16 @@ Dr. Karen Word. Contact us at [dibsi.training@gmail.com](mailto:dibsi.training@g
 * [Taylor Reiter](https://twitter.com/ReiterTaylor)
 * [Marian Schmidt](https://twitter.com/micro_marian)
 
-Registration for ANGUS 2019 will open March 3th. To be notified when it opens, please [join the dibsi-announce mailing list](https://groups.io/g/dibsi-announce/join). Please note that in previous years we have been able to accomodate everyone who wants to come!
+## [Registration is now open!](https://registration.genomecenter.ucdavis.edu/events/2019_angus/register/)
+
+<!-- Registration for ANGUS 2019 will open March 3th. To be notified when it opens, please [join the dibsi-announce mailing list](https://groups.io/g/dibsi-announce/join). Please note that in previous years we have been able to accomodate everyone who wants to come! -->
 
 Please also see [Frequently Asked Questions for 2019](https://hackmd.io/s/BkjZDqNNV).
 
 This intensive two week summer course introduces attendees with a strong biology background to the practice of analyzing big shotgun sequencing data sets (Illumina, PacBio, and Nanopore). We introduce students to computational thinking and large-scale data analysis on UNIX platforms, and cover genome and transcriptome analysis. We also cover computational topics including R scripting, software installation with bioconda, cloud computing, and building efficient and automated workflows.
 
 **No prior programming experience is required**, although bravery in the face of the unknown is necessary!  A year or more of graduate school in a
-biological science is strongly suggested. Faculty, postdocs, and research staff are more than welcome, as are researchers from industry.
+biological science is suggested. Faculty, postdocs, and research staff are more than welcome, as are researchers from industry.
 
 A [draft schedule of hours for this year](SCHEDULE.html) is available.
 
