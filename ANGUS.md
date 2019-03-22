@@ -1,6 +1,7 @@
 # ANGUS 2019 advertisement
 
 July 1 - July 13, 2019
+University of California, Davis
 
 [2018 materials: http://angus.readthedocs.io/en/2018/](http://angus.readthedocs.io/en/2018/)
 
@@ -13,6 +14,11 @@ Dr. Karen Word. Contact us at [dibsi.training@gmail.com](mailto:dibsi.training@g
 * [Sateesh Peri](https://twitter.com/perisateesh)
 * [Taylor Reiter](https://twitter.com/ReiterTaylor)
 * [Marian Schmidt](https://twitter.com/micro_marian)
+
+**Confirmed lecturers for 2019:**
+
+* [Meg Staton](https://ag.tennessee.edu/EPP/Pages/Dr.MegStaton.aspx)
+* [Erich Schwarz](https://scholar.google.com/citations?hl=en&user=VllBDvcAAAAJ&view_op=list_works&sortby=pubdate)
 
 ## [Registration is now open!](https://registration.genomecenter.ucdavis.edu/events/2019_angus/register/)
 
@@ -50,7 +56,8 @@ Materials from previous courses are available at
 You can read a blog post about the 2015 course here:
 [http://ivory.idyll.org/blog/2015-small-batch.html](http://ivory.idyll.org/blog/2015-small-batch.html)
 
-The course fee will be $950 for this workshop.
+The course fee will be $950 for this workshop. On-campus housing for
+the two weeks of the ANGUS course is $1005.
 
 ## What do people say about this workshop?
 
