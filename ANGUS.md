@@ -31,7 +31,7 @@ This intensive two week summer course introduces attendees with a strong biology
 **No prior programming experience is required**, although bravery in the face of the unknown is necessary!  A year or more of graduate school in a
 biological science is suggested. Faculty, postdocs, and research staff are more than welcome, as are researchers from industry.
 
-A [draft schedule of hours for this year](SCHEDULE.html) is available.
+The 2018 schedule of hours [is available](SCHEDULE.html); we'll update with a draft for 2019 in mid-April.
 
 We plan to run multiple independent classrooms of 20-30 participants each. In 2019, we will provide both introductory and intermediate tracks to accomodate all levels of learners.
 
@@ -57,7 +57,8 @@ You can read a blog post about the 2015 course here:
 [http://ivory.idyll.org/blog/2015-small-batch.html](http://ivory.idyll.org/blog/2015-small-batch.html)
 
 The course fee will be $950 for this workshop. On-campus housing for
-the two weeks of the ANGUS course is $1005.
+the two weeks of the ANGUS course is $1005; housing includes breakfast
+and dinner, but not lunch.
 
 ## What do people say about this workshop?
 
