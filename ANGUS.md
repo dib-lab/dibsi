@@ -36,7 +36,7 @@ This intensive two week summer course introduces attendees with a strong biology
 **No prior programming experience is required**, although bravery in the face of the unknown is necessary!  A year or more of graduate school in a
 biological science is suggested. Faculty, postdocs, and research staff are more than welcome, as are researchers from industry.
 
-The 2018 schedule of hours [is available](SCHEDULE.html); we'll update with a draft for 2019 in mid-April.
+The 2019 schedule of hours [is now available](SCHEDULE.html)!
 
 We plan to run multiple independent classrooms of 20-30 participants each. In 2019, we will provide both introductory and intermediate tracks to accomodate all levels of learners.
 
