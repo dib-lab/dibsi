@@ -16,8 +16,8 @@ Monday 7/1:
 Tuesday:
 * 9am-noon - lab
 * noon-1pm - lunch break (lunch on your own)
-* 1-3pm - poster session and ice cream social
-* 3-5:15pm - lab
+* 1-3pm - lab
+* 3-5:15pm - poster session and ice cream social
 
 Wednesday:
 * 9am-noon - lab
