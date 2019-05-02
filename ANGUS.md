@@ -11,8 +11,10 @@ Dr. Karen Word. Contact us at [dibsi.training@gmail.com](mailto:dibsi.training@g
 **Lead instructors for 2019:**
 
 * [Mike Lee](https://twitter.com/astrobiomike)
+* [Rocio Martinez Nunez](https://kclpure.kcl.ac.uk/portal/en/persons/rocio-martinez-nunez(ce8b2695-8bb3-4430-bd65-4a415bd92bbe).html)
 * [Sateesh Peri](https://twitter.com/perisateesh)
 * [Taylor Reiter](https://twitter.com/ReiterTaylor)
+* [Chissa Rivaldi](https://twitter.com/powerofcheez?lang=en)
 * [Marian Schmidt](https://twitter.com/micro_marian)
 
 **Confirmed lecturers for 2019:**
