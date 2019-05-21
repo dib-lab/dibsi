@@ -51,7 +51,7 @@ and Amtrak, which arrives in downtown Davis.  While much of downtown
 Davis is walkable, lodging is typically further and we recommend
 using ride sharing or taxi services.
 
-[The Davis Airporter](https://www.davisairporter.com/ and
+[The Davis Airporter](https://www.davisairporter.com/) and
 [Supershuttle](https://www.supershuttle.com/) can be used for
 transportation to and from airports, but should be reserved well in
 advance.  Ride sharing (e.g. [Lyft](https://www.lyft.com/)) works well
