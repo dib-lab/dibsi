@@ -1,7 +1,3 @@
----
-tags: dibsi,angus2019,angus
----
-
 # Attendee Procedure For Reporting Code of Conduct Incidents
 
 ## Attendee Procedure
