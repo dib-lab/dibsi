@@ -20,6 +20,10 @@ Contents:
    FUNDERS
    SCHEDULE
 
+   incident-reporting-procedure
+   event-expectations
+   behavioral-modifications
+
    2017/index.md
    
 
