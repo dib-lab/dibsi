@@ -6,6 +6,11 @@ All DIBSI attendees are expected to agree with the following code of
 conduct. We will enforce this code as needed. We expect cooperation
 from all attendees to help ensuring a safe environment for everybody.
 
+Enforcement may result in one or more
+[behavioral modifications](behavioral-modifications.html) intended to
+ensure that this workshop continues to be a safe and welcoming
+teaching and learning environment.
+
 ## The Quick Version
 
 DIBSI events are neither a dating scene nor an intellectual contest.
