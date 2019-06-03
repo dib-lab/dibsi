@@ -55,7 +55,7 @@ master_doc = 'toc'
 
 # General information about the project.
 project = u'DIBSI'
-copyright = u'2017, Titus Brown et al.'
+copyright = u'2017-2019, Titus Brown et al.'
 author = u'Titus Brown et al.'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -141,7 +141,7 @@ html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-html_title = u'2017 DIBSI'
+html_title = u'2019 DIBSI'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
