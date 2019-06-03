@@ -40,9 +40,9 @@ biological science is suggested. Faculty, postdocs, and research staff are more 
 
 The 2019 schedule of hours [is now available](SCHEDULE.html)!
 
-We plan to run multiple independent classrooms of 20-30 participants each. In 2019, we will provide both introductory and intermediate tracks to accomodate all levels of learners.
+We plan to run multiple independent classrooms of 20-30 participants each, with two lead instructors and 3-5 helpers per classroom. In 2019, we will provide both introductory and intermediate tracks to accomodate all levels of learners.
 
-We strive to provide a welcoming and inclusive environment, and work hard to accomodate learner needs.
+We strive to provide a welcoming and inclusive environment, and work hard to accomodate learner needs. This course supporst and encourages diversity by creating an environment in which people can communicate effectively and share their unique talents. This diversity of talents enriches the course by fueling creativity, innovation, and success!
 
 ## What will I learn if I attend?
 
@@ -56,6 +56,8 @@ Students will gain practical experience in:
 - Querying mappings and evaluating assemblies
 - Running workflows in the cloud and evaluating their results
 - Estimating computational resources
+
+We deliver and enhance these materials through live hands-on coding, group notes, and lots of friendly helpers!
 
 Materials from previous courses are available at
   [http://angus.readthedocs.org/](http://angus.readthedocs.org/) under a Creative Commons/full use+reuse license.
