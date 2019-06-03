@@ -1,13 +1,13 @@
 # Guidelines & Expectations for DIBSI events (2019)
 
 ## Important Links
-* the updated Code of Conduct for 2019 is [here](https://hackmd.io/fQ44oEiuRbCEl5eSBk8izA).
-* the Attendee Procedure for Reporting CoC Incidents is [here](https://hackmd.io/JwXR1xwjRXWr1Mxznip-VQ).
-* Possible behavioral modifications are [here](https://hackmd.io/y7OpARbaSjyC1R6gwPIeqw)
+* the updated Code of Conduct for 2019 is [here](coc.html).
+* the Attendee Procedure for Reporting Incidents is [here](incident-reporting-procedure.html).
+* Possible behavioral modifications are [here](behavioral-modifications.html).
 
 
 ## Introduction
-Everyone who participates in a DIBSI event shares the responsibility of creating a welcoming and brave environment for learning and networking. As such, we would like to outline **Workshop Guidelines** for everyone and **expectations** for people based on their participation role below. 
+Everyone who participates in a DIBSI event shares the responsibility of creating a welcoming environment for learning and networking. As such, we would like to outline **Workshop Guidelines** for everyone and **expectations** for people based on their participation role below. 
 
 *We welcome feedback on these guidelines and expectations through * the **[GOOGLE FORM]**
 

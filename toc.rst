@@ -12,6 +12,7 @@ Contents:
 
    index
    coc
+   event-expectations
    ANGUS
    getting-involved
    WHO

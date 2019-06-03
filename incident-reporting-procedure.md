@@ -2,23 +2,21 @@
 
 ## Attendee Procedure
 
-If you believe someone is in physical danger, consult with a volunteer or staff member for the appropriate crisis number, non-emergency number, or police number. (@@ provide info for UC Davis.)
+If you believe someone is in physical danger, consult with a volunteer or staff member for the appropriate crisis number, non-emergency number, or police number. Contact information will also be posted at the venue, sent in your e-mail, and on the event slack.
 
 If you believe someone has violated the workshop [Code of Conduct](coc.html), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by this Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer space.
 
-You may make an anonymous report **[here]()**. (TODO: create incident report online form.) This report will be seen by all lead incident responders.
+You may make an anonymous report via an online form that will be linked here before the workshop begins. This report will be seen by all lead incident responders.
 
-During the conference you can also make a report:
-* To any helper, lead instructor, or organizer.
-* Email <@@>
+During the conference you can also make a report to any helper, lead instructor, or organizer, or via e-mail.
  
 In the event of a conflict of interest, you may directly contact any of the lead incident responders:
 * Titus Brown
 * Karen Word
 * Marian Schmidt
 
-Contact information for the lead incident responders is available at
-the venue as well as in your e-mail.
+Contact information for the lead incident responders will be available at
+the venue as well as in your e-mail and on the event slack.
 
 Carol Willing is an external senior member of the open source community who has agreed to serve as an external incident responder. Ms. Willing is completely independent of the ANGUS and DIBSI events. You can contact her at [willingc@willingconsulting.com](mailto:willingc@willingconsulting.com).
 
@@ -31,7 +29,7 @@ If you make a report via email or phone, please include:
 * Location of incident
 * Whether the incident is ongoing
 * Description of the incident
-* Identifying information of the reported person: name, physical appearance, height, clothing, voice accent, identifying badge information such as company name, ribbons, or badge number
+* Identifying information of the reported person: name, physical appearance, height, clothing, voice accent, and/or identifying badge information
 * Additional circumstances surrounding the incident
 * Other people involved in or witnesses to the incident and their contact information or description
 
@@ -47,13 +45,13 @@ In some cases we may determine that a public statement will need to be made. If 
 
 ## Report Handling Procedure
 
-When you make a report to an incident responder, they will gather information about the incident according to the **[Staff Procedure For Incident Response]()**. @@
+When you make a report to an incident responder, they will gather information about the incident according to the Staff Procedure For Incident Response.
 
-After an incident responder takes the report, they will immediately consult with the lead incident responders (Titus Brown, Karen Word, and Marian Schmidt). In the event of a conflict of interest, they will contact Carol Willing.
+After an incident responder takes the report, they will immediately consult with the lead incident responders (Titus Brown, Karen Word, and Marian Schmidt). In the event of a conflict of interest with any of the lead incident responders, they will contact Carol Willing.
 
 If the incident is ongoing and needs to be immediately addressed, any one of the lead incident responders may take appropriate action to ensure the safety of everyone involved.
 
-If the incident is less urgent, the three incident leads will meet within 24 hours to determine an appropriate response. Examples of possible incident responses are outlined in the ANGUS Staff Procedure For Incident Response (@@link).
+If the incident is less urgent, the three incident leads will meet within 24 hours to determine an appropriate response. Examples of possible incident responses are outlined in the ANGUS Staff Procedure For Incident Response; see also the list of [possible behavioral modifications](behavioral-modifications.html).
 
 Before the conference, staff will have a mandatory meeting where incident response procedures will be outlined. After the conference, all incident responders will attend a debriefing session with the lead responders to discuss all incidents and determine any necessary follow-up actions.
 
