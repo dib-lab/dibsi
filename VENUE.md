@@ -164,7 +164,7 @@ be tricky.  The following address has worked well in the past:
 ```
 Charles Titus Brown
 re: <your name here>
-1 Shields Ave 251 CCAH
+1 Shields Ave // 251 CCAH
 Davis, CA 95616-5270
 US
 ```

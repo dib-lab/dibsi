@@ -15,25 +15,28 @@ Everyone who participates in a DIBSI event shares the responsibility of creating
 **Note:** *All DIBSI participants must follow the [event Code of Conduct](coc.html).* Our first priority is to provide and sustain a safe and welcoming environment for learning and teaching!  
 
 ## Workshop Guidelines 
-1. **Our primary commitment is to learn from each other.** We will listen to each other and not talk *at* each other. We acknowledge differences amongst us in backgrounds, skills, interests, and values. We realize that it is these very differences that will increase our awareness and understanding through this process.
 
-2. **Share responsibility for including everyone in the discussion.** Be mindful of taking up much more space than others. Empower yourself to speak up when others are dominating the conversation.
+1. **Be respectful of others.** Treat people the way that you'd like to be treated.
 
-3. **Confidentiality.** We want to create an atmosphere for open, honest exchange. Unless it is an actionable item or specifically indicated on notecards, we will not share beyond this room without permission.
+2. **Our primary commitment is to learn from each other.** We will listen to each other and not talk *at* each other. We acknowledge differences amongst us in backgrounds, skills, interests, and values. We realize that it is these very differences that will increase our awareness and understanding through this process.
+
+3. **Share responsibility for including everyone in the discussion.** Be mindful of taking up much more space than others. Empower yourself to speak up when others are dominating the conversation.
+
+4. **Confidentiality.** We want to create an atmosphere for open, honest exchange. Unless it is an actionable item or specifically indicated on note cards, we will not share beyond this room without permission.
  		
-4. **Do not demean, devalue, or "put down" people** for their experiences, lack of experiences, difference in interpretation of those experiences, or choice of computer or software.
+5. **Do not demean, devalue, or "put down" people** for their experiences, lack of experiences, difference in interpretation of those experiences, or choice of computer or software.
 
-5. **Expect a range of emotions to be present, though not always visible.** The workshop has long days and can be very intense for us and those around us.
+6. **Expect a range of emotions to be present, though not always visible.** The workshop has long days and can be very intense for us and those around us.
 	
-6. **Trust that people are always doing the best they can.** We will give each other the benefit of the doubt. We will assume we are all trying our hardest and that our intentions are good even when the impact is not. **Consider being wrong** and accept responsibility for the consequences of our actions, regardless of their intentions. 
+7. **Trust that people are always doing the best they can.** We will give each other the benefit of the doubt. We will assume we are all trying our hardest and that our intentions are good even when the impact is not. **Consider being wrong** and accept responsibility for the consequences of our actions, regardless of their intentions. 
 				 							
-7. **Challenge the idea and not the person, and expect to have your perspectives challenged by others.** If we wish to challenge something that has been said, we will challenge the idea or the practice referred to, not the individual sharing this idea or practice. 
+8. **Challenge the idea and not the person, and expect to have your perspectives challenged by others.** If we wish to challenge something that has been said, we will challenge the idea or the practice referred to, not the individual sharing this idea or practice. 
 	
-8. **Speak your discomfort.** If something is bothering you, please share this with the group, your helper/instructor/coordinators, or submit a response **[ON THIS FORM]**. Often our emotional reactions to this process offer the most valuable learning opportunities.
+9. **Speak your discomfort.** If something is bothering you, please share this with the group, your helper/instructor/coordinators, or submit a response **[ON THIS FORM]**. Often our emotional reactions to this process offer the most valuable learning opportunities.
 
-9. **Expect and accept a lack of closure.** We will cover a myriad of topics throughout this workshop and not all questions will be answered or clear. 
+10. **Expect and accept a lack of closure.** We will cover a myriad of topics throughout this workshop and not all questions will be answered or clear. 
 
-10. **We are all a work in progress.** We will not assume that one comment or one opinion made at one time captures the whole of a person's character. We are all in the process of learning, including the facilitators.
+11. **We are all a work in progress.** We will not assume that one comment or one opinion made at one time captures the whole of a person's character. We are all in the process of learning, including the facilitators.
 
 
 ## Expectations of event attendees  
@@ -51,7 +54,7 @@ Everyone who participates in a DIBSI event shares the responsibility of creating
     * If they have the capacity, help the people around them  
 * Ask questions if they have them  
     * Ask helpers
-    * Type it in the etherpad chat
+    * Type it in the hackmd
     * Write it on a sticky at the end of each lesson
     * Submit questions to the form here: **[INSERT LINK TO GOOGLE FORM]**
 * Respect others at the event
@@ -83,7 +86,7 @@ Everyone who participates in a DIBSI event shares the responsibility of creating
 * Teach attendees.
 * Provide individualized or group help as needed.
 * Avoid disruptive behavior including:
-    * Intellectually agressive behavoir such as challenging other people (including instructors/helpers/attendees) in their content.
+    * Intellectually aggressive behavior such as challenging other people (including instructors/helpers/attendees) in their content.
 
 
 ## Expectations of workshop organizers  
