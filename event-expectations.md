@@ -44,8 +44,8 @@ Everyone who participates in a DIBSI event shares the responsibility of creating
     * This includes providing thoughts and feedback regarding the course in any capacity such as:
         * Sticky notes at the end of each lesson
         * Preferred elective labs during week 2
-        * etc.
-* Have an open mind and treat others as though they have something to offer, we all do.  
+        * Informal feedback to lead instructors, hosts, TAs, and student assistants.
+* Have an open mind and treat others as though they have something to offer - we all do!
 * Be ready and willing to learn from instructors, helpers, and each other.
 * If you have the expertise, we invite others to contribute to the conversation, especially if directly related to their own experiences. This can be done through the stickies, group notes, telling an instructor/helper, or the google form.
 * Actively participate in events they attend  
