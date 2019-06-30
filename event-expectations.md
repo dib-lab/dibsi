@@ -10,7 +10,7 @@
 ## Introduction
 Everyone who participates in a DIBSI event shares the responsibility of creating a welcoming environment for learning and networking. As such, we would like to outline **Workshop Guidelines** for everyone and **expectations** for people based on their participation role below. 
 
-*We welcome feedback on these guidelines and expectations through the* **[GOOGLE FORM]**
+*We welcome feedback on these guidelines and expectations through **[the feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdAn2tfzZwtv_yF-LGYyzKvysqjEDA6HklYKJUwwjGC62Tj6A/viewform).**
 
 **Note:** *All DIBSI participants must follow the [event Code of Conduct](coc.html).* Our first priority is to provide and sustain a safe and welcoming environment for learning and teaching!  
 
@@ -32,7 +32,7 @@ Everyone who participates in a DIBSI event shares the responsibility of creating
 				 							
 8. **Challenge the idea and not the person, and expect to have your perspectives challenged by others.** If we wish to challenge something that has been said, we will challenge the idea or the practice referred to, not the individual sharing this idea or practice. 
 	
-9. **Speak your discomfort.** If something is bothering you, please share this with the group, your helper/instructor/coordinators, or submit a response **[ON THIS FORM]**. Often our emotional reactions to this process offer the most valuable learning opportunities.
+9. **Speak your discomfort.** If something is bothering you, please share this with the group, your helper/instructor/coordinators, or submit a response via **[the feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdAn2tfzZwtv_yF-LGYyzKvysqjEDA6HklYKJUwwjGC62Tj6A/viewform).**. Often our emotional reactions to this process offer the most valuable learning opportunities.
 
 10. **Expect and accept a lack of closure.** We will cover a myriad of topics throughout this workshop and not all questions will be answered or clear. 
 
@@ -47,7 +47,7 @@ Everyone who participates in a DIBSI event shares the responsibility of creating
         * Informal feedback to lead instructors, hosts, TAs, and student assistants.
 * Have an open mind and treat others as though they have something to offer - we all do!
 * Be ready and willing to learn from instructors, helpers, and each other.
-* If you have the expertise, we invite others to contribute to the conversation, especially if directly related to their own experiences. This can be done through the stickies, group notes, telling an instructor/helper, or the google form.
+* If you have the expertise, we invite others to contribute to the conversation, especially if directly related to their own experiences. This can be done through the stickies, group notes, telling an instructor/helper, or **[the feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdAn2tfzZwtv_yF-LGYyzKvysqjEDA6HklYKJUwwjGC62Tj6A/viewform).**
 * Actively participate in events they attend  
     * Use stickies
     * Contribute to group notes
@@ -56,7 +56,7 @@ Everyone who participates in a DIBSI event shares the responsibility of creating
     * Ask helpers
     * Type it in the hackmd
     * Write it on a sticky at the end of each lesson
-    * Submit questions to the form here: **[INSERT LINK TO GOOGLE FORM]**
+    * Submit questions to **[the feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdAn2tfzZwtv_yF-LGYyzKvysqjEDA6HklYKJUwwjGC62Tj6A/viewform).**
 * Respect others at the event
 * When receiving help from others during a lesson:  
     * Use a whisper voice to lessen the impact on others around them. 
@@ -66,7 +66,7 @@ Everyone who participates in a DIBSI event shares the responsibility of creating
     * Speaking to those around them during the lesson.
 * Be an active and responsive bystander by either:  
    * Speaking up in the moment of an event.
-   * Submitting a climate response form here: **[INSERT LINK TO GOOGLE FORM]**
+   * Submitting a climate response form here: **[the feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdAn2tfzZwtv_yF-LGYyzKvysqjEDA6HklYKJUwwjGC62Tj6A/viewform).**
    * Talking to instructors and course coordinators regarding events that you may witness.
   
   
@@ -81,7 +81,7 @@ Everyone who participates in a DIBSI event shares the responsibility of creating
         * If it makes more sense for the instructor/helper to "drive" the learners computer, **always ask for permission** to touch someone else's computer.   
     * Be an active and responsive by-stander by either:  
         * Speaking up in the moment.
-        * Submitting a climate response form here: **[INSERT LINK TO GOOGLE FORM]**
+        * Submitting a climate response to **[the feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdAn2tfzZwtv_yF-LGYyzKvysqjEDA6HklYKJUwwjGC62Tj6A/viewform).**
         * Talking to instructors and course coordinators regarding events that you may witness.
 * Teach attendees.
 * Provide individualized or group help as needed.
@@ -96,7 +96,7 @@ Everyone who participates in a DIBSI event shares the responsibility of creating
 * Lay out clear and unambiguous guidelines for participant conduct, and provide incident response guidelines and training.
 * Be an active and responsive by-stander by either:  
     * Speaking up in the moment.
-    * Submitting a climate response form here: **[INSERT LINK TO GOOGLE FORM]**
+    * Submitting a climate response comment to **[the feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdAn2tfzZwtv_yF-LGYyzKvysqjEDA6HklYKJUwwjGC62Tj6A/viewform).**
     * Talking to the lead-instructors and other coordinators regarding events that you may witness.
 
 
@@ -107,28 +107,4 @@ Everyone who participates in a DIBSI event shares the responsibility of creating
 # Reporting Drop Box
 This is a form to submit any comments and issues related to the workshop as a whole or related to the culture/climate of the workshop. We welcome any thoughts and concerns you have. 
 
-**[ADD LINK TO FORM]**
-
-Please note that these resources also exist: 
-    [INSERT RESOURCES]
-
-<!--
-*note - the following needs to be edited for our workshop needs*
-
-
-**Potential Form Questions:**
-1. What do you want to report? Please describe the situation.  
-2. Do you want this report to be anonymous? (Yes/No) 
-3. **Position of reporter:** Please select your position in the Department (if you do not want to answer this, please select "Choose not to answer").
-    - Faculty
-    - Staff
-    - graduate student
-    - postdoc
-    - choose not to answer
-    - Other:____ 
-5. How would you like the situation resolved? 
-    - I do not seek a resolution; I just want a formal record that the incident occurred--If you choose this option your report will go to the Chair and the Diversity Committee. 
-    - I want some action taken to help resolve this situation--at this time all the reported cases requiring further action will go to the Chair who will take appropriate steps to help resolve the conflict.
-7. **Summary of Report:** Can a summary of your report be shared anonymously (i.e., without identifying the people involved) with the department on the next biannual diversity and social justice report, as a means of educating the department about diversity issues and concerns within EEB? (Yes/No)
-
--->
+**[Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdAn2tfzZwtv_yF-LGYyzKvysqjEDA6HklYKJUwwjGC62Tj6A/viewform).**
