@@ -19,17 +19,9 @@ Dr. Karen Word. Contact us at [dibsi.training@gmail.com](mailto:dibsi.training@g
 
 **Confirmed lecturers for 2019:**
 
-* [Meg Staton](https://ag.tennessee.edu/EPP/Pages/Dr.MegStaton.aspx)
 * [Erich Schwarz](https://scholar.google.com/citations?hl=en&user=VllBDvcAAAAJ&view_op=list_works&sortby=pubdate)
 
-## [Registration is open!](https://registration.genomecenter.ucdavis.edu/events/2019_angus/register/)
-
-Registration for housing has now closed, although we may have a few rooms
-available; drop us a note at dibsi.training@gmail.com if you are interested.
-
-Registration for the workshop continues to be open until we reach capacity.
-
-<!-- Registration for ANGUS 2019 will open March 3th. To be notified when it opens, please [join the dibsi-announce mailing list](https://groups.io/g/dibsi-announce/join). Please note that in previous years we have been able to accomodate everyone who wants to come! -->
+Registration has now closed.
 
 Please also see [Frequently Asked Questions for 2019](https://hackmd.io/s/BkjZDqNNV).
 
