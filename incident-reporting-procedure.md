@@ -6,7 +6,7 @@ If you believe someone is in physical danger, consult with a volunteer or staff 
 
 If you believe someone has violated the workshop [Code of Conduct](coc.html), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by this Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer space.
 
-You may make an anonymous report via [our online form](https://docs.google.com/forms/d/e/1FAIpQLSdAn2tfzZwtv_yF-LGYyzKvysqjEDA6HklYKJUwwjGC62Tj6A/viewform). This report will be seen by all lead incident responders.
+You may make an anonymous report via [our online form](http://bit.ly/2019_ANGUS_Feedback). This report will be seen by all lead incident responders.
 
 During the conference you can also make a report to any helper, lead instructor, or organizer, or via e-mail.
  
