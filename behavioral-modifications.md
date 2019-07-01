@@ -12,10 +12,10 @@ stop a particular behavior and/or to leave a room or the workshop for
 up to a full day.
 
 In response to an incident report, the Lead Incident Responders (Titus
-Brown, Karen Word, Marian Schmidt, and/or Carol Willing) may ask event
-participants to change rooms and/or leave the event entirely, as well
-as other behavioral modifications intended to ensure a safe and
-welcoming envoronment.
+Brown, Karen Word, Marian Schmidt, Rocio Martinez-Nunez, and/or Carol
+Willing) may ask event participants to change rooms and/or leave the
+event entirely, as well as other behavioral modifications intended to
+ensure a safe and welcoming envoronment.
 
 In cases of sexual violence and/or sexual harassment, Dr. Word and
 Dr. Brown

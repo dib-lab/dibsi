@@ -14,6 +14,7 @@ In the event of a conflict of interest, you may directly contact any of the lead
 * Titus Brown
 * Karen Word
 * Marian Schmidt
+* Rocio Martinez-Nunez
 
 Contact information for the lead incident responders will be available at
 the venue as well as in your e-mail and on the event slack.
@@ -47,7 +48,7 @@ In some cases we may determine that a public statement will need to be made. If 
 
 When you make a report to an incident responder, they will gather information about the incident according to the Staff Procedure For Incident Response.
 
-After an incident responder takes the report, they will immediately consult with the lead incident responders (Titus Brown, Karen Word, and Marian Schmidt). In the event of a conflict of interest with any of the lead incident responders, they will contact Carol Willing.
+After an incident responder takes the report, they will immediately consult with the lead incident responders (Titus Brown, Karen Word, Marian Schmidt, and Rocio Martinez-Nunez). In the event of a conflict of interest with any of the lead incident responders, they will contact Carol Willing.
 
 If the incident is ongoing and needs to be immediately addressed, any one of the lead incident responders may take appropriate action to ensure the safety of everyone involved.
 
