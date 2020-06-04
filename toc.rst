@@ -11,21 +11,10 @@ Contents:
    :maxdepth: 2
 
    index
-   coc
-   event-expectations
-   ANGUS
-   getting-involved
-   WHO
-   VENUE
-   ATTENDEES
-   FUNDERS
-   SCHEDULE
-
-   incident-reporting-procedure
-   event-expectations
-   behavioral-modifications
 
    2017/index.md
+   2018/index.md
+   2019/index.md
    
 
 Indices and tables

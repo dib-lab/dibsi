@@ -6,7 +6,7 @@ Due to the COVID-19 pandemic, we have cancelled in-person instruction.
 
 We do plan to offer some online instruction; please
 [join our low-volume announcements list](https://dibsi-bioinfo.groups.io/g/announce)
-if you are interested in being notified of events! (Click "Join this group")
+if you are interested in being notified of events! (Click "Join this group" on [this page](https://dibsi-bioinfo.groups.io/g/announce).)
 
 ## Other information
 
