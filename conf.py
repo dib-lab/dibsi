@@ -35,6 +35,7 @@ import sphinx_bootstrap_theme
 extensions = [
     'sphinx.ext.ifconfig',
     'sphinx.ext.githubpages',
+    'recommonmark'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -44,7 +45,7 @@ templates_path = ['_templates']
 # You can specify multiple suffix as a list of string:
 #
 # source_suffix = ['.rst', '.md']
-source_suffix = '.rst'
+#source_suffix = '.rst'
 
 # The encoding of source files.
 #
